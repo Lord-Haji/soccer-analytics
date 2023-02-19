@@ -1,0 +1,439 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,pk,pkatt,season,team
+0,2022-10-09,19:30,Super League,Matchweek 1,Sun,Away,D,3.0,3.0,Hyderabad FC,50.0,2127.0,Mourtada Fall,4-3-3,Tejas Nagvenkar,Match Report,,15,5,,0,0,2022,Mumbai City
+1,2022-10-15,19:30,Super League,Matchweek 2,Sat,Home,W,2.0,0.0,Odisha,49.0,4128.0,Rahul Bheke,4-3-3,Pranjal Banerjee,Match Report,,7,3,,0,0,2022,Mumbai City
+2,2022-10-22,17:30,Super League,Matchweek 3,Sat,Home,D,1.0,1.0,Jamshedpur,71.0,3733.0,Rahul Bheke,4-3-3,R. Venkatesh,Match Report,,14,5,,0,0,2022,Mumbai City
+3,2022-10-28,19:30,Super League,Matchweek 4,Fri,Away,W,2.0,0.0,Kerala Blasters,47.0,33121.0,Rahul Bheke,4-2-3-1,Aditya Purkayastha,Match Report,,16,4,,0,0,2022,Mumbai City
+4,2022-11-06,19:30,Super League,Matchweek 5,Sun,Home,D,2.0,2.0,Mohun Bagan,56.0,5869.0,Rahul Bheke,4-3-3,Rowan Arumughan,Match Report,,21,7,,0,0,2022,Mumbai City
+5,2022-11-12,19:30,Super League,Matchweek 6,Sat,Away,W,6.0,2.0,Chennaiyin,62.0,7789.0,Rahul Bheke,4-3-3,Ashwin Mohanlal,Match Report,,18,11,,1,1,2022,Mumbai City
+6,2022-11-17,19:30,Super League,Matchweek 7,Thu,Home,W,4.0,0.0,Bengaluru,50.0,6118.0,Rahul Bheke,4-3-3,C. R. Srikrishna,Match Report,,12,5,,0,0,2022,Mumbai City
+7,2022-11-25,19:30,Super League,Matchweek 8,Fri,Away,W,3.0,1.0,NorthEast Utd,66.0,851.0,Rahul Bheke,4-3-3,S. Senthil Nathan,Match Report,,22,13,,1,1,2022,Mumbai City
+8,2022-12-01,19:30,Super League,Matchweek 9,Thu,Home,W,4.0,1.0,Goa,55.0,5529.0,Rahul Bheke,4-3-3,Pratik Mondal,Match Report,,13,8,,0,0,2022,Mumbai City
+9,2022-12-16,19:30,Super League,Matchweek 11,Fri,Away,W,3.0,0.0,East Bengal,69.0,8079.0,Mourtada Fall,4-3-3,Tejas Nagvenkar,Match Report,,19,9,,0,1,2022,Mumbai City
+10,2022-12-24,17:30,Super League,Matchweek 12,Sat,Home,W,2.0,1.0,Chennaiyin,56.0,3892.0,Mourtada Fall,4-3-3,Pranjal Banerjee,Match Report,,18,8,,0,0,2022,Mumbai City
+11,2023-01-02,19:30,Super League,Matchweek 13,Mon,Away,W,4.0,2.0,Odisha,59.0,4417.0,Rahul Bheke,4-2-3-1,Rowan Arumughan,Match Report,,16,9,,0,0,2022,Mumbai City
+12,2023-01-08,19:30,Super League,Matchweek 14,Sun,Home,W,4.0,0.0,Kerala Blasters,60.0,6407.0,Rahul Bheke,4-2-3-1,C. R. Srikrishna,Match Report,,9,6,,0,0,2022,Mumbai City
+13,2023-01-14,19:30,Super League,Matchweek 15,Sat,Away,W,1.0,0.0,Mohun Bagan,43.0,,Rahul Bheke,4-2-3-1,Tejas Nagvenkar,Match Report,,13,9,,0,0,2022,Mumbai City
+14,2023-01-19,19:30,Super League,Matchweek 16,Thu,Home,W,4.0,0.0,NorthEast Utd,74.0,3187.0,Mourtada Fall,4-3-3,Ashwin Mohanlal,Match Report,,21,11,,0,1,2022,Mumbai City
+15,2023-01-27,19:30,Super League,Matchweek 17,Fri,Away,W,2.0,1.0,Jamshedpur,64.0,,Mourtada Fall,4-3-3,S. Senthil Nathan,Match Report,,14,4,,0,0,2022,Mumbai City
+16,2023-02-04,17:30,Super League,Matchweek 18,Sat,Home,D,1.0,1.0,Hyderabad FC,60.0,5588.0,Mourtada Fall,4-3-3,Harish Kundu,Match Report,,14,4,,1,1,2022,Mumbai City
+17,2023-02-11,17:30,Super League,Matchweek 20,Sat,Away,W,5.0,3.0,Goa,45.0,,Ahmed Jahouh,4-3-3,Pranjal Banerjee,Match Report,,15,8,,1,1,2022,Mumbai City
+18,2023-02-15,19:30,Super League,Matchweek 20,Wed,Away,L,1.0,2.0,Bengaluru,61.0,5901.0,Mourtada Fall,4-3-3,Rowan Arumughan,Match Report,,12,6,,0,0,2022,Mumbai City
+0,2022-10-09,19:30,Super League,Matchweek 1,Sun,Home,D,3.0,3.0,Mumbai City,50.0,2127.0,João Victor,4-2-3-1,Tejas Nagvenkar,Match Report,,13,7,,1,1,2022,Hyderabad FC
+1,2022-10-13,19:30,Super League,Matchweek 2,Thu,Away,W,3.0,0.0,NorthEast Utd,55.0,8627.0,João Victor,4-2-3-1,Pratik Mondal,Match Report,,20,10,,0,1,2022,Hyderabad FC
+2,2022-10-22,19:30,Super League,Matchweek 3,Sat,Home,W,1.0,0.0,Bengaluru,57.0,10543.0,João Victor,4-2-3-1,Umesh Bora,Match Report,,19,4,,0,0,2022,Hyderabad FC
+3,2022-10-29,17:30,Super League,Matchweek 4,Sat,Home,W,1.0,0.0,Goa,39.0,9638.0,João Victor,4-2-3-1,Crystal John,Match Report,,13,2,,0,0,2022,Hyderabad FC
+4,2022-11-05,17:30,Super League,Matchweek 5,Sat,Home,W,1.0,0.0,Odisha,51.0,10126.0,João Victor,4-2-3-1,R. Venkatesh,Match Report,,6,2,,0,0,2022,Hyderabad FC
+5,2022-11-09,19:30,Super League,Matchweek 6,Wed,Away,W,1.0,0.0,Jamshedpur,66.0,20189.0,João Victor,4-2-3-1,Pratik Mondal,Match Report,,12,2,,0,0,2022,Hyderabad FC
+6,2022-11-19,19:30,Super League,Matchweek 7,Sat,Home,L,0.0,1.0,Kerala Blasters,68.0,11834.0,João Victor,4-2-3-1,Pranjal Banerjee,Match Report,,16,1,,0,0,2022,Hyderabad FC
+7,2022-11-26,19:30,Super League,Matchweek 8,Sat,Away,L,0.0,1.0,Mohun Bagan,59.0,26493.0,João Victor,4-2-3-1,Harish Kundu,Match Report,,12,1,,0,0,2022,Hyderabad FC
+8,2022-12-03,17:30,Super League,Matchweek 9,Sat,Away,W,3.0,1.0,Chennaiyin,57.0,8207.0,João Victor,4-2-3-1,Rahul Kumar Gupta,Match Report,,17,7,,0,0,2022,Hyderabad FC
+9,2022-12-09,19:30,Super League,Matchweek 10,Fri,Home,W,2.0,0.0,East Bengal,50.0,5196.0,João Victor,4-2-3-1,S. Senthil Nathan,Match Report,,10,5,,0,0,2022,Hyderabad FC
+10,2022-12-23,19:30,Super League,Matchweek 12,Fri,Away,W,3.0,0.0,Bengaluru,33.0,8117.0,Bartholomew Ogbeche,4-2-3-1,Priyobarta Singh,Match Report,,9,5,,0,0,2022,Hyderabad FC
+11,2022-12-29,19:30,Super League,Matchweek 13,Thu,Home,W,6.0,1.0,NorthEast Utd,41.0,5907.0,Bartholomew Ogbeche,4-2-3-1,I. Jamal Mohamed,Match Report,,23,11,,0,0,2022,Hyderabad FC
+12,2023-01-05,19:30,Super League,Matchweek 14,Thu,Away,W,3.0,1.0,Goa,37.0,8327.0,Bartholomew Ogbeche,4-2-3-1,Pranjal Banerjee,Match Report,,9,5,,0,0,2022,Hyderabad FC
+13,2023-01-12,19:30,Super League,Matchweek 15,Thu,Home,D,1.0,1.0,Chennaiyin,48.0,,Bartholomew Ogbeche,4-2-3-1,Umesh Bora,Match Report,,8,2,,1,1,2022,Hyderabad FC
+14,2023-01-20,19:30,Super League,Matchweek 16,Fri,Away,W,2.0,0.0,East Bengal,45.0,,Bartholomew Ogbeche,4-2-3-1,Rowan Arumughan,Match Report,,18,7,,0,0,2022,Hyderabad FC
+15,2023-02-04,17:30,Super League,Matchweek 18,Sat,Away,D,1.0,1.0,Mumbai City,40.0,5588.0,Bartholomew Ogbeche,4-2-3-1,Harish Kundu,Match Report,,9,1,,0,0,2022,Hyderabad FC
+16,2023-02-10,19:30,Super League,Matchweek 19,Fri,Away,L,1.0,3.0,Odisha,52.0,6217.0,Bartholomew Ogbeche,4-2-3-1,Aditya Purkayastha,Match Report,,7,3,,0,0,2022,Hyderabad FC
+17,2023-02-14,19:30,Super League,Matchweek 20,Tue,Home,W,1.0,0.0,Mohun Bagan,47.0,4873.0,Nikhil Poojari,4-2-3-1,C. R. Srikrishna,Match Report,,11,4,,0,0,2022,Hyderabad FC
+18,2023-02-18,17:30,Super League,Matchweek 21,Sat,Home,L,2.0,3.0,Jamshedpur,66.0,5276.0,Bartholomew Ogbeche,4-2-3-1,Pranjal Banerjee,Match Report,,12,4,,0,1,2022,Hyderabad FC
+0,2022-10-10,19:30,Super League,Matchweek 1,Mon,Home,L,1.0,2.0,Chennaiyin,60.0,22236.0,Joni Kauko,3-5-2,Crystal John,Match Report,,15,7,,0,0,2022,Mohun Bagan
+1,2022-10-16,19:30,Super League,Matchweek 2,Sun,Away,W,5.0,2.0,Kerala Blasters,43.0,34984.0,Pritam Kotal,3-4-3,R. Venkatesh,Match Report,,10,8,,0,0,2022,Mohun Bagan
+2,2022-10-29,19:30,Super League,Matchweek 4,Sat,Home,W,2.0,0.0,East Bengal,57.0,62542.0,Pritam Kotal,4-2-3-1,C. R. Srikrishna,Match Report,,17,5,,0,0,2022,Mohun Bagan
+3,2022-11-06,19:30,Super League,Matchweek 5,Sun,Away,D,2.0,2.0,Mumbai City,44.0,5869.0,Pritam Kotal,4-3-3,Rowan Arumughan,Match Report,,14,3,,0,0,2022,Mohun Bagan
+4,2022-11-10,19:30,Super League,Matchweek 6,Thu,Home,W,2.0,1.0,NorthEast Utd,58.0,26425.0,Pritam Kotal,4-1-4-1,Tejas Nagvenkar,Match Report,,26,10,,0,0,2022,Mohun Bagan
+5,2022-11-20,19:30,Super League,Matchweek 7,Sun,Away,L,0.0,3.0,Goa,49.0,13259.0,Pritam Kotal,4-3-3,R. Venkatesh,Match Report,,8,0,,0,0,2022,Mohun Bagan
+6,2022-11-26,19:30,Super League,Matchweek 8,Sat,Home,W,1.0,0.0,Hyderabad FC,41.0,26493.0,Pritam Kotal,4-3-3,Harish Kundu,Match Report,,11,4,,0,0,2022,Mohun Bagan
+7,2022-12-03,19:30,Super League,Matchweek 9,Sat,Away,W,1.0,0.0,Bengaluru,57.0,10430.0,Pritam Kotal,4-2-3-1,Ashwin Mohanlal,Match Report,,9,1,,0,0,2022,Mohun Bagan
+8,2022-12-08,19:30,Super League,Matchweek 10,Thu,Home,W,1.0,0.0,Jamshedpur,56.0,15217.0,Pritam Kotal,4-3-3,Rahul Kumar Gupta,Match Report,,14,8,,1,1,2022,Mohun Bagan
+9,2022-12-15,19:30,Super League,Matchweek 11,Thu,Away,D,0.0,0.0,Odisha,47.0,7019.0,Pritam Kotal,4-2-3-1,C. R. Srikrishna,Match Report,,7,4,,0,0,2022,Mohun Bagan
+10,2022-12-24,19:30,Super League,Matchweek 12,Sat,Away,L,0.0,1.0,NorthEast Utd,60.0,504.0,Pritam Kotal,3-4-3,Aditya Purkayastha,Match Report,,15,8,,0,0,2022,Mohun Bagan
+11,2022-12-28,19:30,Super League,Matchweek 13,Wed,Home,W,2.0,1.0,Goa,44.0,19873.0,Pritam Kotal,3-4-3,Harish Kundu,Match Report,,13,2,,0,0,2022,Mohun Bagan
+12,2023-01-14,19:30,Super League,Matchweek 15,Sat,Home,L,0.0,1.0,Mumbai City,57.0,,Vishal Kaith,4-3-3,Tejas Nagvenkar,Match Report,,27,5,,0,0,2022,Mohun Bagan
+13,2023-01-21,19:30,Super League,Matchweek 16,Sat,Away,D,0.0,0.0,Chennaiyin,56.0,,Pritam Kotal,4-2-3-1,Rahul Kumar Gupta,Match Report,,9,5,,0,0,2022,Mohun Bagan
+14,2023-01-28,19:30,Super League,Matchweek 17,Sat,Home,W,2.0,0.0,Odisha,48.0,,Pritam Kotal,4-2-3-1,Crystal John,Match Report,,13,5,,0,0,2022,Mohun Bagan
+15,2023-02-05,19:30,Super League,Matchweek 18,Sun,Home,L,1.0,2.0,Bengaluru,56.0,18594.0,Pritam Kotal,4-2-3-1,Aditya Purkayastha,Match Report,,18,4,,0,0,2022,Mohun Bagan
+16,2023-02-09,19:30,Super League,Matchweek 19,Thu,Away,D,0.0,0.0,Jamshedpur,59.0,9669.0,Pritam Kotal,4-2-3-1,Umesh Bora,Match Report,,26,7,,0,0,2022,Mohun Bagan
+17,2023-02-14,19:30,Super League,Matchweek 20,Tue,Away,L,0.0,1.0,Hyderabad FC,53.0,4873.0,Pritam Kotal,3-4-1-2,C. R. Srikrishna,Match Report,,12,3,,0,0,2022,Mohun Bagan
+18,2023-02-18,19:30,Super League,Matchweek 21,Sat,Home,W,2.0,1.0,Kerala Blasters,47.0,,Pritam Kotal,4-2-3-1,Rahul Kumar Gupta,Match Report,,12,4,,0,0,2022,Mohun Bagan
+0,2022-10-08,19:30,Super League,Matchweek 1,Sat,Home,W,1.0,0.0,NorthEast Utd,53.0,19379.0,Sunil Chhetri,3-4-1-2,Rahul Kumar Gupta,Match Report,,17,2,,0,0,2022,Bengaluru
+1,2022-10-14,19:30,Super League,Matchweek 2,Fri,Away,D,1.0,1.0,Chennaiyin,47.0,12719.0,Sunil Chhetri,3-4-3,Crystal John,Match Report,,7,1,,0,0,2022,Bengaluru
+2,2022-10-22,19:30,Super League,Matchweek 3,Sat,Away,L,0.0,1.0,Hyderabad FC,43.0,10543.0,Sunil Chhetri,3-4-1-2,Umesh Bora,Match Report,,4,2,,0,0,2022,Bengaluru
+3,2022-10-27,19:30,Super League,Matchweek 4,Thu,Away,L,0.0,1.0,Odisha,54.0,6811.0,Sunil Chhetri,4-4-2,S. Senthil Nathan,Match Report,,9,2,,0,0,2022,Bengaluru
+4,2022-11-11,19:30,Super League,Matchweek 6,Fri,Home,L,0.0,1.0,East Bengal,58.0,12817.0,Sunil Chhetri,4-3-1-2,Harish Kundu,Match Report,,10,1,,0,0,2022,Bengaluru
+5,2022-11-17,19:30,Super League,Matchweek 7,Thu,Away,L,0.0,4.0,Mumbai City,50.0,6118.0,Gurpreet Singh Sandhu,4-2-3-1,C. R. Srikrishna,Match Report,,8,3,,0,0,2022,Bengaluru
+6,2022-11-26,17:30,Super League,Matchweek 8,Sat,Away,W,2.0,0.0,Goa,28.0,10730.0,Gurpreet Singh Sandhu,4-3-3,Rowan Arumughan,Match Report,,7,3,,0,0,2022,Bengaluru
+7,2022-12-03,19:30,Super League,Matchweek 9,Sat,Home,L,0.0,1.0,Mohun Bagan,43.0,10430.0,Sunil Chhetri,4-3-3,Ashwin Mohanlal,Match Report,,13,3,,0,0,2022,Bengaluru
+8,2022-12-11,19:30,Super League,Matchweek 10,Sun,Away,L,2.0,3.0,Kerala Blasters,51.0,25184.0,Sunil Chhetri,4-3-3,I. Jamal Mohamed,Match Report,,5,3,,1,1,2022,Bengaluru
+9,2022-12-17,17:30,Super League,Matchweek 11,Sat,Home,W,1.0,0.0,Jamshedpur,56.0,8726.0,Sunil Chhetri,5-3-2,R. Venkatesh,Match Report,,17,5,,0,0,2022,Bengaluru
+10,2022-12-23,19:30,Super League,Matchweek 12,Fri,Home,L,0.0,3.0,Hyderabad FC,67.0,8117.0,Sunil Chhetri,4-3-3,Priyobarta Singh,Match Report,,9,2,,0,0,2022,Bengaluru
+11,2022-12-30,19:30,Super League,Matchweek 13,Fri,Away,L,1.0,2.0,East Bengal,56.0,9137.0,Sunil Chhetri,4-3-3,Rahul Kumar Gupta,Match Report,,19,7,,0,0,2022,Bengaluru
+12,2023-01-06,19:30,Super League,Matchweek 14,Fri,Away,W,2.0,1.0,NorthEast Utd,59.0,683.0,Gurpreet Singh Sandhu,3-4-1-2,Pratik Mondal,Match Report,,18,9,,0,0,2022,Bengaluru
+13,2023-01-14,17:30,Super League,Matchweek 15,Sat,Home,W,3.0,1.0,Odisha,39.0,,Gurpreet Singh Sandhu,3-5-2,S. Senthil Nathan,Match Report,,13,5,,0,0,2022,Bengaluru
+14,2023-01-18,19:30,Super League,Matchweek 16,Wed,Away,W,3.0,0.0,Jamshedpur,46.0,,Gurpreet Singh Sandhu,3-5-2,R. Venkatesh,Match Report,,10,4,,0,0,2022,Bengaluru
+15,2023-01-28,17:30,Super League,Matchweek 17,Sat,Home,W,3.0,1.0,Chennaiyin,38.0,,Gurpreet Singh Sandhu,3-5-2,Tejas Nagvenkar,Match Report,,7,4,,0,0,2022,Bengaluru
+16,2023-02-05,19:30,Super League,Matchweek 18,Sun,Away,W,2.0,1.0,Mohun Bagan,44.0,18594.0,Gurpreet Singh Sandhu,3-5-2,Aditya Purkayastha,Match Report,,25,5,,0,0,2022,Bengaluru
+17,2023-02-11,19:30,Super League,Matchweek 20,Sat,Home,W,1.0,0.0,Kerala Blasters,31.0,28001.0,Gurpreet Singh Sandhu,3-5-2,Tejas Nagvenkar,Match Report,,19,6,,0,0,2022,Bengaluru
+18,2023-02-15,19:30,Super League,Matchweek 20,Wed,Home,W,2.0,1.0,Mumbai City,39.0,5901.0,Sunil Chhetri,3-5-2,Rowan Arumughan,Match Report,,15,5,,0,0,2022,Bengaluru
+0,2022-10-07,19:30,Super League,Matchweek 1,Fri,Home,W,3.0,1.0,East Bengal,53.0,34978.0,Jessel Carneiro,4-4-2,C. R. Srikrishna,Match Report,,22,10,,0,0,2022,Kerala Blasters
+1,2022-10-16,19:30,Super League,Matchweek 2,Sun,Home,L,2.0,5.0,Mohun Bagan,57.0,34984.0,Jessel Carneiro,4-4-2,R. Venkatesh,Match Report,,18,7,,0,0,2022,Kerala Blasters
+2,2022-10-23,19:30,Super League,Matchweek 3,Sun,Away,L,1.0,2.0,Odisha,48.0,5217.0,Jessel Carneiro,4-4-1-1,Priyobarta Singh,Match Report,,5,3,,0,0,2022,Kerala Blasters
+3,2022-10-28,19:30,Super League,Matchweek 4,Fri,Home,L,0.0,2.0,Mumbai City,53.0,33121.0,Jessel Carneiro,4-4-2,Aditya Purkayastha,Match Report,,18,4,,0,0,2022,Kerala Blasters
+4,2022-11-05,19:30,Super League,Matchweek 5,Sat,Away,W,3.0,0.0,NorthEast Utd,55.0,4867.0,Adrián Luna,4-4-2,Crystal John,Match Report,,12,4,,0,0,2022,Kerala Blasters
+5,2022-11-13,19:30,Super League,Matchweek 6,Sun,Home,W,3.0,1.0,Goa,35.0,29347.0,Adrián Luna,4-4-2,Rahul Kumar Gupta,Match Report,,15,4,,1,1,2022,Kerala Blasters
+6,2022-11-19,19:30,Super League,Matchweek 7,Sat,Away,W,1.0,0.0,Hyderabad FC,32.0,11834.0,Adrián Luna,4-2-2-2,Pranjal Banerjee,Match Report,,10,4,,0,0,2022,Kerala Blasters
+7,2022-12-04,19:30,Super League,Matchweek 9,Sun,Away,W,1.0,0.0,Jamshedpur,63.0,16417.0,Adrián Luna,4-4-2,Tejas Nagvenkar,Match Report,,11,2,,0,0,2022,Kerala Blasters
+8,2022-12-11,19:30,Super League,Matchweek 10,Sun,Home,W,3.0,2.0,Bengaluru,49.0,25184.0,Adrián Luna,4-4-2,I. Jamal Mohamed,Match Report,,14,7,,0,0,2022,Kerala Blasters
+9,2022-12-19,19:30,Super League,Matchweek 11,Mon,Away,D,1.0,1.0,Chennaiyin,47.0,11132.0,Adrián Luna,4-4-1-1,Harish Kundu,Match Report,,15,4,,0,0,2022,Kerala Blasters
+10,2022-12-26,19:30,Super League,Matchweek 12,Mon,Home,W,1.0,0.0,Odisha,51.0,31712.0,Jessel Carneiro,4-4-2,Pratik Mondal,Match Report,,11,3,,0,0,2022,Kerala Blasters
+11,2023-01-03,19:30,Super League,Matchweek 13,Tue,Home,W,3.0,1.0,Jamshedpur,56.0,24117.0,Jessel Carneiro,4-4-2,Ashwin Mohanlal,Match Report,,19,7,,1,1,2022,Kerala Blasters
+12,2023-01-08,19:30,Super League,Matchweek 14,Sun,Away,L,0.0,4.0,Mumbai City,40.0,6407.0,Jessel Carneiro,4-4-2,C. R. Srikrishna,Match Report,,9,1,,0,0,2022,Kerala Blasters
+13,2023-01-22,19:30,Super League,Matchweek 16,Sun,Away,L,1.0,3.0,Goa,57.0,,Adrián Luna,4-4-2,C. R. Srikrishna,Match Report,,12,4,,0,0,2022,Kerala Blasters
+14,2023-01-29,19:30,Super League,Matchweek 17,Sun,Home,W,2.0,0.0,NorthEast Utd,64.0,,Jessel Carneiro,4-4-2,Umesh Bora,Match Report,,25,9,,0,0,2022,Kerala Blasters
+15,2023-02-03,19:30,Super League,Matchweek 18,Fri,Away,L,0.0,1.0,East Bengal,59.0,2575.0,Jessel Carneiro,3-1-4-2,Ashwin Mohanlal,Match Report,,12,3,,0,0,2022,Kerala Blasters
+16,2023-02-07,19:30,Super League,Matchweek 19,Tue,Home,W,2.0,1.0,Chennaiyin,57.0,21049.0,Jessel Carneiro,4-2-3-1,Crystal John,Match Report,,10,4,,0,0,2022,Kerala Blasters
+17,2023-02-11,19:30,Super League,Matchweek 20,Sat,Away,L,0.0,1.0,Bengaluru,69.0,28001.0,Jessel Carneiro,4-4-2,Tejas Nagvenkar,Match Report,,12,2,,0,0,2022,Kerala Blasters
+18,2023-02-18,19:30,Super League,Matchweek 21,Sat,Away,L,1.0,2.0,Mohun Bagan,53.0,,Jessel Carneiro,4-4-2,Rahul Kumar Gupta,Match Report,,10,2,,0,0,2022,Kerala Blasters
+0,2022-10-11,19:30,Super League,Matchweek 1,Tue,Away,W,3.0,2.0,Jamshedpur,62.0,19213.0,Carlos Delgado,4-3-3,Rowan Arumughan,Match Report,,9,4,,0,0,2022,Odisha
+1,2022-10-15,19:30,Super League,Matchweek 2,Sat,Away,L,0.0,2.0,Mumbai City,51.0,4128.0,Carlos Delgado,4-3-3,Pranjal Banerjee,Match Report,,16,3,,0,0,2022,Odisha
+2,2022-10-23,19:30,Super League,Matchweek 3,Sun,Home,W,2.0,1.0,Kerala Blasters,52.0,5217.0,Carlos Delgado,4-3-3,Priyobarta Singh,Match Report,,16,8,,0,0,2022,Odisha
+3,2022-10-27,19:30,Super League,Matchweek 4,Thu,Home,W,1.0,0.0,Bengaluru,47.0,6811.0,Carlos Delgado,4-3-3,S. Senthil Nathan,Match Report,,19,6,,0,0,2022,Odisha
+4,2022-11-05,17:30,Super League,Matchweek 5,Sat,Away,L,0.0,1.0,Hyderabad FC,49.0,10126.0,Carlos Delgado,4-3-3,R. Venkatesh,Match Report,,8,2,,0,0,2022,Odisha
+5,2022-11-18,19:30,Super League,Matchweek 7,Fri,Away,W,4.0,2.0,East Bengal,53.0,17772.0,Carlos Delgado,4-3-3,I. Jamal Mohamed,Match Report,,14,5,,0,0,2022,Odisha
+6,2022-11-24,19:30,Super League,Matchweek 8,Thu,Home,W,3.0,2.0,Chennaiyin,55.0,7218.0,Carlos Delgado,4-3-3,Aditya Purkayastha,Match Report,,19,6,,1,1,2022,Odisha
+7,2022-12-02,19:30,Super League,Matchweek 9,Fri,Home,W,2.0,1.0,NorthEast Utd,59.0,7716.0,Carlos Delgado,4-3-3,Umesh Bora,Match Report,,18,5,,0,0,2022,Odisha
+8,2022-12-10,17:30,Super League,Matchweek 10,Sat,Away,L,0.0,3.0,Goa,49.0,9456.0,Carlos Delgado,4-3-3,Crystal John,Match Report,,6,3,,0,0,2022,Odisha
+9,2022-12-15,19:30,Super League,Matchweek 11,Thu,Home,D,0.0,0.0,Mohun Bagan,53.0,7019.0,Carlos Delgado,4-2-3-1,C. R. Srikrishna,Match Report,,17,2,,0,0,2022,Odisha
+10,2022-12-26,19:30,Super League,Matchweek 12,Mon,Away,L,0.0,1.0,Kerala Blasters,49.0,31712.0,Carlos Delgado,4-3-3,Pratik Mondal,Match Report,,10,3,,0,0,2022,Odisha
+11,2023-01-02,19:30,Super League,Matchweek 13,Mon,Home,L,2.0,4.0,Mumbai City,41.0,4417.0,Carlos Delgado,4-2-3-1,Rowan Arumughan,Match Report,,11,4,,0,0,2022,Odisha
+12,2023-01-07,19:30,Super League,Matchweek 14,Sat,Home,W,3.0,1.0,East Bengal,55.0,,Carlos Delgado,4-3-3,R. Venkatesh,Match Report,,16,6,,0,0,2022,Odisha
+13,2023-01-14,17:30,Super League,Matchweek 15,Sat,Away,L,1.0,3.0,Bengaluru,61.0,,Carlos Delgado,4-3-3,S. Senthil Nathan,Match Report,,11,2,,1,1,2022,Odisha
+14,2023-01-28,19:30,Super League,Matchweek 17,Sat,Away,L,0.0,2.0,Mohun Bagan,53.0,,Carlos Delgado,4-3-3,Crystal John,Match Report,,5,1,,0,0,2022,Odisha
+15,2023-02-02,19:30,Super League,Matchweek 18,Thu,Away,D,2.0,2.0,Chennaiyin,42.0,,Carlos Delgado,4-3-3,Pratik Mondal,Match Report,,6,4,,0,0,2022,Odisha
+16,2023-02-06,19:30,Super League,Matchweek 19,Mon,Home,D,1.0,1.0,Goa,41.0,,Carlos Delgado,4-3-3,R. Venkatesh,Match Report,,10,2,,0,0,2022,Odisha
+17,2023-02-10,19:30,Super League,Matchweek 19,Fri,Home,W,3.0,1.0,Hyderabad FC,48.0,6217.0,Carlos Delgado,4-4-2,Aditya Purkayastha,Match Report,,13,7,,0,0,2022,Odisha
+18,2023-02-17,19:30,Super League,Matchweek 21,Fri,Away,W,3.0,1.0,NorthEast Utd,59.0,403.0,Carlos Delgado,4-2-3-1,Umesh Bora,Match Report,,18,4,,1,1,2022,Odisha
+0,2022-10-12,19:30,Super League,Matchweek 2,Wed,Away,W,2.0,1.0,East Bengal,59.0,17500.0,Brandon Fernandes,4-2-3-1,Harish Kundu,Match Report,,16,5,,0,0,2022,Goa
+1,2022-10-21,19:30,Super League,Matchweek 3,Fri,Away,W,2.0,0.0,Chennaiyin,46.0,11564.0,Brandon Fernandes,4-2-3-1,Pranjal Banerjee,Match Report,,20,7,,0,0,2022,Goa
+2,2022-10-29,17:30,Super League,Matchweek 4,Sat,Away,L,0.0,1.0,Hyderabad FC,61.0,9638.0,Brandon Fernandes,4-2-3-1,Crystal John,Match Report,,14,2,,0,1,2022,Goa
+3,2022-11-03,19:30,Super League,Matchweek 5,Thu,Home,W,3.0,0.0,Jamshedpur,70.0,13123.0,Brandon Fernandes,4-2-3-1,Pranjal Banerjee,Match Report,,7,4,,0,0,2022,Goa
+4,2022-11-13,19:30,Super League,Matchweek 6,Sun,Away,L,1.0,3.0,Kerala Blasters,65.0,29347.0,Brandon Fernandes,4-2-3-1,Rahul Kumar Gupta,Match Report,,13,3,,0,0,2022,Goa
+5,2022-11-20,19:30,Super League,Matchweek 7,Sun,Home,W,3.0,0.0,Mohun Bagan,52.0,13259.0,Brandon Fernandes,4-2-3-1,R. Venkatesh,Match Report,,15,8,,0,0,2022,Goa
+6,2022-11-26,17:30,Super League,Matchweek 8,Sat,Home,L,0.0,2.0,Bengaluru,72.0,10730.0,Brandon Fernandes,4-2-3-1,Rowan Arumughan,Match Report,,14,6,,0,0,2022,Goa
+7,2022-12-01,19:30,Super League,Matchweek 9,Thu,Away,L,1.0,4.0,Mumbai City,45.0,5529.0,Brandon Fernandes,4-2-3-1,Pratik Mondal,Match Report,,13,5,,0,0,2022,Goa
+8,2022-12-10,17:30,Super League,Matchweek 10,Sat,Home,W,3.0,0.0,Odisha,51.0,9456.0,Brandon Fernandes,4-2-3-1,Crystal John,Match Report,,15,4,,0,0,2022,Goa
+9,2022-12-17,19:30,Super League,Matchweek 11,Sat,Home,W,2.0,1.0,NorthEast Utd,66.0,11037.0,Brandon Fernandes,4-2-3-1,Ashwin Mohanlal,Match Report,,19,5,,0,0,2022,Goa
+10,2022-12-22,19:30,Super League,Matchweek 12,Thu,Away,D,2.0,2.0,Jamshedpur,62.0,13237.0,Brandon Fernandes,4-2-3-1,Umesh Bora,Match Report,,19,3,,0,0,2022,Goa
+11,2022-12-28,19:30,Super League,Matchweek 13,Wed,Away,L,1.0,2.0,Mohun Bagan,56.0,19873.0,Brandon Fernandes,4-2-3-1,Harish Kundu,Match Report,,10,1,,0,0,2022,Goa
+12,2023-01-05,19:30,Super League,Matchweek 14,Thu,Home,L,1.0,3.0,Hyderabad FC,64.0,8327.0,Brandon Fernandes,4-2-3-1,Pranjal Banerjee,Match Report,,14,3,,0,0,2022,Goa
+13,2023-01-15,19:30,Super League,Matchweek 15,Sun,Away,D,2.0,2.0,NorthEast Utd,58.0,,Brandon Fernandes,4-2-3-1,Crystal John,Match Report,,16,6,,1,1,2022,Goa
+14,2023-01-22,19:30,Super League,Matchweek 16,Sun,Home,W,3.0,1.0,Kerala Blasters,43.0,,Brandon Fernandes,4-2-3-1,C. R. Srikrishna,Match Report,,10,5,,1,1,2022,Goa
+15,2023-01-26,19:30,Super League,Matchweek 17,Thu,Home,W,4.0,2.0,East Bengal,59.0,7949.0,Brandon Fernandes,4-2-3-1,I. Jamal Mohamed,Match Report,,15,6,,0,0,2022,Goa
+16,2023-02-06,19:30,Super League,Matchweek 19,Mon,Away,D,1.0,1.0,Odisha,59.0,,Brandon Fernandes,4-3-3,R. Venkatesh,Match Report,,10,4,,0,0,2022,Goa
+17,2023-02-11,17:30,Super League,Matchweek 20,Sat,Home,L,3.0,5.0,Mumbai City,55.0,,Brandon Fernandes,4-5-1,Pranjal Banerjee,Match Report,,15,5,,0,0,2022,Goa
+18,2023-02-16,19:30,Super League,Matchweek 21,Thu,Home,L,1.0,2.0,Chennaiyin,63.0,9364.0,Brandon Fernandes,4-2-3-1,Ashwin Mohanlal,Match Report,,18,6,,0,0,2022,Goa
+0,2022-10-10,19:30,Super League,Matchweek 1,Mon,Away,W,2.0,1.0,Mohun Bagan,40.0,22236.0,Anirudh Thapa,4-3-3,Crystal John,Match Report,,8,3,,1,1,2022,Chennaiyin
+1,2022-10-14,19:30,Super League,Matchweek 2,Fri,Home,D,1.0,1.0,Bengaluru,54.0,12719.0,Anirudh Thapa,4-5-1,Crystal John,Match Report,,15,6,,0,0,2022,Chennaiyin
+2,2022-10-21,19:30,Super League,Matchweek 3,Fri,Home,L,0.0,2.0,Goa,54.0,11564.0,Anirudh Thapa,4-2-3-1,Pranjal Banerjee,Match Report,,19,7,,0,0,2022,Chennaiyin
+3,2022-11-04,19:30,Super League,Matchweek 5,Fri,Away,W,1.0,0.0,East Bengal,63.0,17170.0,Anirudh Thapa,4-2-3-1,Umesh Bora,Match Report,,13,3,,0,0,2022,Chennaiyin
+4,2022-11-12,19:30,Super League,Matchweek 6,Sat,Home,L,2.0,6.0,Mumbai City,38.0,7789.0,Anirudh Thapa,4-4-2,Ashwin Mohanlal,Match Report,,10,4,,0,0,2022,Chennaiyin
+5,2022-11-19,17:30,Super League,Matchweek 7,Sat,Home,W,3.0,1.0,Jamshedpur,51.0,9788.0,Fallou Diagne,4-2-3-1,Priyobarta Singh,Match Report,,13,5,,0,0,2022,Chennaiyin
+6,2022-11-24,19:30,Super League,Matchweek 8,Thu,Away,L,2.0,3.0,Odisha,45.0,7218.0,Fallou Diagne,4-2-3-1,Aditya Purkayastha,Match Report,,7,3,,1,1,2022,Chennaiyin
+7,2022-12-03,17:30,Super League,Matchweek 9,Sat,Home,L,1.0,3.0,Hyderabad FC,43.0,8207.0,Fallou Diagne,4-2-3-1,Rahul Kumar Gupta,Match Report,,12,4,,0,0,2022,Chennaiyin
+8,2022-12-10,19:30,Super League,Matchweek 10,Sat,Away,W,7.0,3.0,NorthEast Utd,58.0,561.0,Fallou Diagne,4-2-3-1,Rowan Arumughan,Match Report,,20,8,,0,0,2022,Chennaiyin
+9,2022-12-19,19:30,Super League,Matchweek 11,Mon,Home,D,1.0,1.0,Kerala Blasters,54.0,11132.0,Fallou Diagne,4-3-3,Harish Kundu,Match Report,,11,3,,0,0,2022,Chennaiyin
+10,2022-12-24,17:30,Super League,Matchweek 12,Sat,Away,L,1.0,2.0,Mumbai City,44.0,3892.0,Fallou Diagne,4-2-3-1,Pranjal Banerjee,Match Report,,10,4,,0,0,2022,Chennaiyin
+11,2023-01-07,17:30,Super League,Matchweek 14,Sat,Away,D,2.0,2.0,Jamshedpur,64.0,9224.0,Anirudh Thapa,4-2-3-1,Priyobarta Singh,Match Report,,21,7,,0,0,2022,Chennaiyin
+12,2023-01-12,19:30,Super League,Matchweek 15,Thu,Away,D,1.0,1.0,Hyderabad FC,52.0,,Anirudh Thapa,4-2-3-1,Umesh Bora,Match Report,,10,2,,0,0,2022,Chennaiyin
+13,2023-01-21,19:30,Super League,Matchweek 16,Sat,Home,D,0.0,0.0,Mohun Bagan,44.0,,Anirudh Thapa,4-2-3-1,Rahul Kumar Gupta,Match Report,,14,6,,0,0,2022,Chennaiyin
+14,2023-01-28,17:30,Super League,Matchweek 17,Sat,Away,L,1.0,3.0,Bengaluru,62.0,,Anirudh Thapa,4-2-3-1,Tejas Nagvenkar,Match Report,,14,3,,0,0,2022,Chennaiyin
+15,2023-02-02,19:30,Super League,Matchweek 18,Thu,Home,D,2.0,2.0,Odisha,58.0,,Anirudh Thapa,4-2-3-1,Pratik Mondal,Match Report,,17,7,,0,0,2022,Chennaiyin
+16,2023-02-07,19:30,Super League,Matchweek 19,Tue,Away,L,1.0,2.0,Kerala Blasters,43.0,21049.0,Anirudh Thapa,4-2-3-1,Crystal John,Match Report,,18,5,,0,0,2022,Chennaiyin
+17,2023-02-12,19:30,Super League,Matchweek 20,Sun,Home,W,2.0,0.0,East Bengal,55.0,5248.0,Anirudh Thapa,4-3-3,Harish Kundu,Match Report,,16,5,,0,0,2022,Chennaiyin
+18,2023-02-16,19:30,Super League,Matchweek 21,Thu,Away,W,2.0,1.0,Goa,37.0,9364.0,Anirudh Thapa,4-1-4-1,Ashwin Mohanlal,Match Report,,9,2,,1,1,2022,Chennaiyin
+0,2022-10-11,19:30,Super League,Matchweek 1,Tue,Home,L,2.0,3.0,Odisha,38.0,19213.0,Peter Hartley,4-3-3,Rowan Arumughan,Match Report,,13,3,,0,0,2022,Jamshedpur
+1,2022-10-22,17:30,Super League,Matchweek 3,Sat,Away,D,1.0,1.0,Mumbai City,29.0,3733.0,Eli Sabiá,4-4-2,R. Venkatesh,Match Report,,11,2,,0,0,2022,Jamshedpur
+2,2022-10-30,19:30,Super League,Matchweek 4,Sun,Home,W,1.0,0.0,NorthEast Utd,53.0,22389.0,Peter Hartley,4-4-2,I. Jamal Mohamed,Match Report,,17,3,,0,0,2022,Jamshedpur
+3,2022-11-03,19:30,Super League,Matchweek 5,Thu,Away,L,0.0,3.0,Goa,30.0,13123.0,Peter Hartley,4-4-2,Pranjal Banerjee,Match Report,,11,3,,0,0,2022,Jamshedpur
+4,2022-11-09,19:30,Super League,Matchweek 6,Wed,Home,L,0.0,1.0,Hyderabad FC,34.0,20189.0,Peter Hartley,4-2-3-1,Pratik Mondal,Match Report,,9,3,,0,0,2022,Jamshedpur
+5,2022-11-19,17:30,Super League,Matchweek 7,Sat,Away,L,1.0,3.0,Chennaiyin,49.0,9788.0,Peter Hartley,3-5-2,Priyobarta Singh,Match Report,,13,1,,0,0,2022,Jamshedpur
+6,2022-11-27,19:30,Super League,Matchweek 8,Sun,Home,L,1.0,3.0,East Bengal,45.0,18893.0,Peter Hartley,4-4-2,Crystal John,Match Report,,20,5,,1,1,2022,Jamshedpur
+7,2022-12-04,19:30,Super League,Matchweek 9,Sun,Home,L,0.0,1.0,Kerala Blasters,37.0,16417.0,Peter Hartley,4-1-4-1,Tejas Nagvenkar,Match Report,,11,1,,0,0,2022,Jamshedpur
+8,2022-12-08,19:30,Super League,Matchweek 10,Thu,Away,L,0.0,1.0,Mohun Bagan,44.0,15217.0,Peter Hartley,4-2-3-1,Rahul Kumar Gupta,Match Report,,9,3,,0,0,2022,Jamshedpur
+9,2022-12-17,17:30,Super League,Matchweek 11,Sat,Away,L,0.0,1.0,Bengaluru,44.0,8726.0,Eli Sabiá,4-3-3,R. Venkatesh,Match Report,,11,2,,0,0,2022,Jamshedpur
+10,2022-12-22,19:30,Super League,Matchweek 12,Thu,Home,D,2.0,2.0,Goa,38.0,13237.0,Eli Sabiá,3-5-2,Umesh Bora,Match Report,,13,5,,0,0,2022,Jamshedpur
+11,2023-01-03,19:30,Super League,Matchweek 13,Tue,Away,L,1.0,3.0,Kerala Blasters,44.0,24117.0,Eli Sabiá,3-4-1-2,Ashwin Mohanlal,Match Report,,9,3,,0,0,2022,Jamshedpur
+12,2023-01-07,17:30,Super League,Matchweek 14,Sat,Home,D,2.0,2.0,Chennaiyin,36.0,9224.0,Eli Sabiá,4-4-2,Priyobarta Singh,Match Report,,9,4,,0,0,2022,Jamshedpur
+13,2023-01-13,19:30,Super League,Matchweek 15,Fri,Away,W,2.0,1.0,East Bengal,46.0,,Eli Sabiá,4-4-1-1,Aditya Purkayastha,Match Report,,18,5,,0,0,2022,Jamshedpur
+14,2023-01-18,19:30,Super League,Matchweek 16,Wed,Home,L,0.0,3.0,Bengaluru,54.0,,Eli Sabiá,4-4-2,R. Venkatesh,Match Report,,25,4,,0,0,2022,Jamshedpur
+15,2023-01-27,19:30,Super League,Matchweek 17,Fri,Home,L,1.0,2.0,Mumbai City,36.0,,Eli Sabiá,4-4-2,S. Senthil Nathan,Match Report,,25,8,,0,0,2022,Jamshedpur
+16,2023-02-04,19:30,Super League,Matchweek 18,Sat,Away,W,2.0,0.0,NorthEast Utd,51.0,401.0,Eli Sabiá,4-4-2,Pranjal Banerjee,Match Report,,15,6,,0,0,2022,Jamshedpur
+17,2023-02-09,19:30,Super League,Matchweek 19,Thu,Home,D,0.0,0.0,Mohun Bagan,41.0,9669.0,Eli Sabiá,4-4-1-1,Umesh Bora,Match Report,,14,7,,0,0,2022,Jamshedpur
+18,2023-02-18,17:30,Super League,Matchweek 21,Sat,Away,W,3.0,2.0,Hyderabad FC,34.0,5276.0,Eli Sabiá,4-4-1-1,Pranjal Banerjee,Match Report,,18,7,,1,1,2022,Jamshedpur
+0,2022-10-07,19:30,Super League,Matchweek 1,Fri,Away,L,1.0,3.0,Kerala Blasters,47.0,34978.0,Cleiton Silva,4-4-2,C. R. Srikrishna,Match Report,,7,2,,0,0,2022,East Bengal
+1,2022-10-12,19:30,Super League,Matchweek 2,Wed,Home,L,1.0,2.0,Goa,41.0,17500.0,Iván Garrido González,4-4-2,Harish Kundu,Match Report,,8,2,,1,1,2022,East Bengal
+2,2022-10-20,19:30,Super League,Matchweek 3,Thu,Away,W,3.0,1.0,NorthEast Utd,39.0,7315.0,Kamaljit Singh,4-4-2,Ashwin Mohanlal,Match Report,,11,4,,0,0,2022,East Bengal
+3,2022-10-29,19:30,Super League,Matchweek 4,Sat,Away,L,0.0,2.0,Mohun Bagan,43.0,62542.0,Cleiton Silva,4-4-2,C. R. Srikrishna,Match Report,,8,2,,0,0,2022,East Bengal
+4,2022-11-04,19:30,Super League,Matchweek 5,Fri,Home,L,0.0,1.0,Chennaiyin,37.0,17170.0,Kamaljit Singh,4-4-2,Umesh Bora,Match Report,,7,0,,0,0,2022,East Bengal
+5,2022-11-11,19:30,Super League,Matchweek 6,Fri,Away,W,1.0,0.0,Bengaluru,42.0,12817.0,Cleiton Silva,4-4-2,Harish Kundu,Match Report,,9,4,,0,0,2022,East Bengal
+6,2022-11-18,19:30,Super League,Matchweek 7,Fri,Home,L,2.0,4.0,Odisha,47.0,17772.0,Iván Garrido González,4-4-2,I. Jamal Mohamed,Match Report,,11,5,,0,0,2022,East Bengal
+7,2022-11-27,19:30,Super League,Matchweek 8,Sun,Away,W,3.0,1.0,Jamshedpur,55.0,18893.0,Cleiton Silva,4-4-2,Crystal John,Match Report,,17,7,,0,0,2022,East Bengal
+8,2022-12-09,19:30,Super League,Matchweek 10,Fri,Away,L,0.0,2.0,Hyderabad FC,50.0,5196.0,Iván Garrido González,4-4-2,S. Senthil Nathan,Match Report,,8,2,,0,0,2022,East Bengal
+9,2022-12-16,19:30,Super League,Matchweek 11,Fri,Home,L,0.0,3.0,Mumbai City,31.0,8079.0,Cleiton Silva,4-4-2,Tejas Nagvenkar,Match Report,,9,0,,0,0,2022,East Bengal
+10,2022-12-30,19:30,Super League,Matchweek 13,Fri,Home,W,2.0,1.0,Bengaluru,44.0,9137.0,Cleiton Silva,4-3-3,Rahul Kumar Gupta,Match Report,,13,3,,1,1,2022,East Bengal
+11,2023-01-07,19:30,Super League,Matchweek 14,Sat,Away,L,1.0,3.0,Odisha,45.0,,Cleiton Silva,4-2-3-1,R. Venkatesh,Match Report,,8,6,,0,0,2022,East Bengal
+12,2023-01-13,19:30,Super League,Matchweek 15,Fri,Home,L,1.0,2.0,Jamshedpur,54.0,,Charalambos Kyriakou,4-2-3-1,Aditya Purkayastha,Match Report,,12,6,,0,0,2022,East Bengal
+13,2023-01-20,19:30,Super League,Matchweek 16,Fri,Home,L,0.0,2.0,Hyderabad FC,55.0,,Cleiton Silva,4-2-3-1,Rowan Arumughan,Match Report,,10,1,,0,0,2022,East Bengal
+14,2023-01-26,19:30,Super League,Matchweek 17,Thu,Away,L,2.0,4.0,Goa,41.0,7949.0,Cleiton Silva,4-4-2,I. Jamal Mohamed,Match Report,,9,2,,0,0,2022,East Bengal
+15,2023-02-03,19:30,Super League,Matchweek 18,Fri,Home,W,1.0,0.0,Kerala Blasters,41.0,2575.0,Cleiton Silva,4-4-2,Ashwin Mohanlal,Match Report,,12,4,,0,0,2022,East Bengal
+16,2023-02-08,19:30,Super League,Matchweek 19,Wed,Home,D,3.0,3.0,NorthEast Utd,48.0,1982.0,Cleiton Silva,4-3-3,Rahul Kumar Gupta,Match Report,,8,6,,1,1,2022,East Bengal
+17,2023-02-12,19:30,Super League,Matchweek 20,Sun,Away,L,0.0,2.0,Chennaiyin,45.0,5248.0,Cleiton Silva,4-4-2,Harish Kundu,Match Report,,5,1,,0,0,2022,East Bengal
+0,2022-10-08,19:30,Super League,Matchweek 1,Sat,Away,L,0.0,1.0,Bengaluru,47.0,19379.0,Michael Jakobsen,4-3-3,Rahul Kumar Gupta,Match Report,,6,1,,0,0,2022,NorthEast United
+1,2022-10-13,19:30,Super League,Matchweek 2,Thu,Home,L,0.0,3.0,Hyderabad FC,45.0,8627.0,Michael Jakobsen,4-4-1-1,Pratik Mondal,Match Report,,10,2,,0,0,2022,NorthEast United
+2,2022-10-20,19:30,Super League,Matchweek 3,Thu,Home,L,1.0,3.0,East Bengal,61.0,7315.0,Michael Jakobsen,4-3-3,Ashwin Mohanlal,Match Report,,18,3,,0,0,2022,NorthEast United
+3,2022-10-30,19:30,Super League,Matchweek 4,Sun,Away,L,0.0,1.0,Jamshedpur,47.0,22389.0,Michael Jakobsen,5-3-2,I. Jamal Mohamed,Match Report,,11,2,,0,0,2022,NorthEast United
+4,2022-11-05,19:30,Super League,Matchweek 5,Sat,Home,L,0.0,3.0,Kerala Blasters,45.0,4867.0,Michael Jakobsen,5-3-2,Crystal John,Match Report,,5,1,,0,0,2022,NorthEast United
+5,2022-11-10,19:30,Super League,Matchweek 6,Thu,Away,L,1.0,2.0,Mohun Bagan,42.0,26425.0,Michael Jakobsen,4-1-4-1,Tejas Nagvenkar,Match Report,,8,3,,0,0,2022,NorthEast United
+6,2022-11-25,19:30,Super League,Matchweek 8,Fri,Home,L,1.0,3.0,Mumbai City,34.0,851.0,Michael Jakobsen,4-1-4-1,S. Senthil Nathan,Match Report,,10,2,,0,0,2022,NorthEast United
+7,2022-12-02,19:30,Super League,Matchweek 9,Fri,Away,L,1.0,2.0,Odisha,41.0,7716.0,Michael Jakobsen,4-3-3,Umesh Bora,Match Report,,2,1,,0,0,2022,NorthEast United
+8,2022-12-10,19:30,Super League,Matchweek 10,Sat,Home,L,3.0,7.0,Chennaiyin,42.0,561.0,Michael Jakobsen,4-3-3,Rowan Arumughan,Match Report,,8,5,,1,1,2022,NorthEast United
+9,2022-12-17,19:30,Super League,Matchweek 11,Sat,Away,L,1.0,2.0,Goa,34.0,11037.0,Michael Jakobsen,4-3-3,Ashwin Mohanlal,Match Report,,14,3,,1,1,2022,NorthEast United
+10,2022-12-24,19:30,Super League,Matchweek 12,Sat,Home,W,1.0,0.0,Mohun Bagan,40.0,504.0,Wilmar Jordán,4-3-3,Aditya Purkayastha,Match Report,,8,3,,0,0,2022,NorthEast United
+11,2022-12-29,19:30,Super League,Matchweek 13,Thu,Away,L,1.0,6.0,Hyderabad FC,59.0,5907.0,Wilmar Jordán,4-3-3,I. Jamal Mohamed,Match Report,,9,5,,0,0,2022,NorthEast United
+12,2023-01-06,19:30,Super League,Matchweek 14,Fri,Home,L,1.0,2.0,Bengaluru,41.0,683.0,Wilmar Jordán,4-3-3,Pratik Mondal,Match Report,,8,3,,0,0,2022,NorthEast United
+13,2023-01-15,19:30,Super League,Matchweek 15,Sun,Home,D,2.0,2.0,Goa,42.0,,Wilmar Jordán,4-3-3,Crystal John,Match Report,,10,3,,2,2,2022,NorthEast United
+14,2023-01-19,19:30,Super League,Matchweek 16,Thu,Away,L,0.0,4.0,Mumbai City,26.0,3187.0,Wilmar Jordán,4-3-3,Ashwin Mohanlal,Match Report,,7,1,,0,0,2022,NorthEast United
+15,2023-01-29,19:30,Super League,Matchweek 17,Sun,Away,L,0.0,2.0,Kerala Blasters,37.0,,Pragyan Sundar Gogoi,4-4-2,Umesh Bora,Match Report,,10,1,,0,0,2022,NorthEast United
+16,2023-02-04,19:30,Super League,Matchweek 18,Sat,Home,L,0.0,2.0,Jamshedpur,49.0,401.0,Pragyan Sundar Gogoi,4-3-3,Pranjal Banerjee,Match Report,,8,2,,0,0,2022,NorthEast United
+17,2023-02-08,19:30,Super League,Matchweek 19,Wed,Away,D,3.0,3.0,East Bengal,53.0,1982.0,Jithin MS,4-3-3,Rahul Kumar Gupta,Match Report,,16,5,,0,0,2022,NorthEast United
+18,2023-02-17,19:30,Super League,Matchweek 21,Fri,Home,L,1.0,3.0,Odisha,41.0,403.0,Wilmar Jordán,4-2-3-1,Umesh Bora,Match Report,,8,3,,1,1,2022,NorthEast United
+0,2021-11-21,19:30,Super League,Matchweek 1,Sun,Away,D,1,1,East Bengal,63.0,,Peter Hartley,4-3-3,Crystal John,Match Report,,18,3,,0,0,2021,Jamshedpur
+1,2021-11-26,19:30,Super League,Matchweek 2,Fri,Away,W,3,1,Goa,25.0,,Peter Hartley,4-4-2,S. Senthil Nathan,Match Report,,15,7,,0,0,2021,Jamshedpur
+2,2021-12-02,19:30,Super League,Matchweek 3,Thu,Home,D,1,1,Hyderabad FC,44.0,,Eli Sabiá,4-4-2,Pratik Mondal,Match Report,,11,1,,0,0,2021,Jamshedpur
+3,2021-12-06,19:30,Super League,Matchweek 4,Mon,Home,W,2,1,Mohun Bagan,37.0,,Peter Hartley,4-4-2,Rowan Arumughan,Match Report,,12,4,,0,0,2021,Jamshedpur
+4,2021-12-09,19:30,Super League,Matchweek 5,Thu,Away,L,2,4,Mumbai City,44.0,,Peter Hartley,4-4-2,Aditya Purkayastha,Match Report,,11,5,,0,0,2021,Jamshedpur
+5,2021-12-14,19:30,Super League,Matchweek 6,Tue,Away,W,4,0,Odisha,38.0,,Peter Hartley,4-2-3-1,C. R. Srikrishna,Match Report,,19,5,,0,0,2021,Jamshedpur
+6,2021-12-20,19:30,Super League,Matchweek 8,Mon,Home,D,0,0,Bengaluru,37.0,,Peter Hartley,4-2-3-1,S. Senthil Nathan,Match Report,,13,5,,0,0,2021,Jamshedpur
+7,2021-12-26,19:30,Super League,Matchweek 9,Sun,Away,D,1,1,Kerala Blasters,48.0,,Peter Hartley,4-4-1-1,Pratik Mondal,Match Report,,18,4,,0,0,2021,Jamshedpur
+8,2022-01-02,21:30,Super League,Matchweek 10,Sun,Home,L,0,1,Chennaiyin,60.0,,Peter Hartley,4-2-3-1,Banerjee Pranjal,Match Report,,19,3,,0,0,2021,Jamshedpur
+9,2022-01-06,19:30,Super League,Matchweek 11,Thu,Home,W,3,2,NorthEast Utd,47.0,,Peter Hartley,4-4-1-1,Rowan Arumughan,Match Report,,21,8,,0,0,2021,Jamshedpur
+10,2022-01-11,19:30,Super League,Matchweek 12,Tue,Home,W,1,0,East Bengal,63.0,,Peter Hartley,4-2-3-1,Crystal John,Match Report,,14,5,,0,0,2021,Jamshedpur
+11,2022-01-28,19:30,Super League,Matchweek 15,Fri,Home,W,1,0,Goa,30.0,,Peter Hartley,4-2-3-1,Aditya Purkayastha,Match Report,,5,1,,0,0,2021,Jamshedpur
+12,2022-02-05,19:30,Super League,Matchweek 17,Sat,Away,L,1,3,Bengaluru,41.0,,Eli Sabiá,4-2-3-1,C. R. Srikrishna,Match Report,,13,4,,0,0,2021,Jamshedpur
+13,2022-02-10,19:30,Super League,Matchweek 18,Thu,Home,W,3,0,Kerala Blasters,50.0,,Peter Hartley,4-4-1-1,Ashwin Mohanlal,Match Report,,11,3,,2,2,2021,Jamshedpur
+14,2022-02-17,19:30,Super League,Matchweek 14,Thu,Home,W,3,2,Mumbai City,33.0,,Peter Hartley,4-2-3-1,Harish Kundu,Match Report,,9,5,,1,1,2021,Jamshedpur
+15,2022-02-20,19:30,Super League,Matchweek 22,Sun,Away,W,4,1,Chennaiyin,47.0,,Peter Hartley,4-2-3-1,Tejas Nagvenkar,Match Report,,28,10,,0,0,2021,Jamshedpur
+16,2022-02-25,19:30,Super League,Matchweek 21,Fri,Away,W,3,2,NorthEast Utd,43.0,,Peter Hartley,4-2-3-1,Rowan Arumughan,Match Report,,14,6,,0,0,2021,Jamshedpur
+17,2022-03-01,19:30,Super League,Matchweek 13,Tue,Away,W,3,0,Hyderabad FC,41.0,,Peter Hartley,4-2-3-1,R. Venkatesh,Match Report,,16,6,,0,0,2021,Jamshedpur
+18,2022-03-04,19:30,Super League,Matchweek 20,Fri,Home,W,5,1,Odisha,60.0,,Eli Sabiá,4-2-3-1,Pratik Mondal,Match Report,,20,7,,0,0,2021,Jamshedpur
+19,2022-03-07,19:30,Super League,Matchweek 19,Mon,Away,W,1,0,Mohun Bagan,32.0,,Peter Hartley,4-2-3-1,Crystal John,Match Report,,7,3,,0,0,2021,Jamshedpur
+20,2022-03-11,19:30,Super League,Semi-finals,Fri,Home,L,0,1,Kerala Blasters,52.0,,Peter Hartley,4-2-3-1,Tejas Nagvenkar,Match Report,Leg 1 of 2,6,1,,0,0,2021,Jamshedpur
+21,2022-03-15,19:30,Super League,Semi-finals,Tue,Away,D,1,1,Kerala Blasters,55.0,,Peter Hartley,4-2-3-1,Harish Kundu,Match Report,Leg 2 of 2; Kerala Blasters won,10,6,,0,0,2021,Jamshedpur
+0,2021-11-23,19:30,Super League,Matchweek 1,Tue,Home,L,0,1,Chennaiyin,63.0,,João Victor,4-4-2,Banerjee Pranjal,Match Report,,12,3,,0,0,2021,Hyderabad FC
+1,2021-11-27,21:30,Super League,Matchweek 2,Sat,Away,W,3,1,Mumbai City,38.0,,João Victor,4-4-2,Pratik Mondal,Match Report,,7,4,,1,1,2021,Hyderabad FC
+2,2021-12-02,19:30,Super League,Matchweek 3,Thu,Away,D,1,1,Jamshedpur,56.0,,João Victor,4-2-3-1,Pratik Mondal,Match Report,,5,1,,0,0,2021,Hyderabad FC
+3,2021-12-08,19:30,Super League,Matchweek 5,Wed,Home,W,1,0,Bengaluru,43.0,,João Victor,4-2-3-1,Harish Kundu,Match Report,,11,2,,0,0,2021,Hyderabad FC
+4,2021-12-13,19:30,Super League,Matchweek 6,Mon,Home,W,5,1,NorthEast Utd,52.0,,João Victor,4-2-3-1,Ashwin Mohanlal,Match Report,,15,6,,0,0,2021,Hyderabad FC
+5,2021-12-18,21:30,Super League,Matchweek 7,Sat,Away,D,1,1,Goa,39.0,,João Victor,4-2-3-1,R. Venkatesh,Match Report,,17,5,,0,0,2021,Hyderabad FC
+6,2021-12-23,19:30,Super League,Matchweek 8,Thu,Home,D,1,1,East Bengal,67.0,,João Victor,4-2-3-1,Aditya Purkayastha,Match Report,,13,5,,0,0,2021,Hyderabad FC
+7,2021-12-28,19:30,Super League,Matchweek 9,Tue,Home,W,6,1,Odisha,56.0,,João Victor,4-2-3-1,Ashwin Mohanlal,Match Report,,10,6,,1,1,2021,Hyderabad FC
+8,2022-01-05,19:30,Super League,Matchweek 10,Wed,Away,D,2,2,Mohun Bagan,46.0,,João Victor,4-2-3-1,Rahul Kumar Gupta,Match Report,,18,8,,0,0,2021,Hyderabad FC
+9,2022-01-09,19:30,Super League,Matchweek 11,Sun,Away,L,0,1,Kerala Blasters,56.0,,João Victor,4-2-3-1,Banerjee Pranjal,Match Report,,12,4,,0,0,2021,Hyderabad FC
+10,2022-01-13,19:30,Super League,Matchweek 12,Thu,Away,D,1,1,Chennaiyin,57.0,,João Victor,4-2-3-1,Rahul Kumar Gupta,Match Report,,24,10,,0,0,2021,Hyderabad FC
+11,2022-01-24,19:30,Super League,Matchweek 14,Mon,Away,W,4,0,East Bengal,49.0,,João Victor,4-2-3-1,Rahul Kumar Gupta,Match Report,,22,8,,0,0,2021,Hyderabad FC
+12,2022-01-27,19:30,Super League,Matchweek 15,Thu,Away,W,3,2,Odisha,50.0,,João Victor,4-2-3-1,C. R. Srikrishna,Match Report,,19,7,,0,0,2021,Hyderabad FC
+13,2022-01-31,19:30,Super League,Matchweek 16,Mon,Away,W,5,0,NorthEast Utd,50.0,,João Victor,4-2-3-1,R. Venkatesh,Match Report,,20,8,,0,0,2021,Hyderabad FC
+14,2022-02-08,19:30,Super League,Matchweek 17,Tue,Home,L,1,2,Mohun Bagan,46.0,,João Victor,4-2-3-1,Harish Kundu,Match Report,,14,5,,0,0,2021,Hyderabad FC
+15,2022-02-11,19:30,Super League,Matchweek 22,Fri,Away,W,2,1,Bengaluru,42.0,,João Victor,4-2-3-1,Tejas Nagvenkar,Match Report,,11,3,,0,0,2021,Hyderabad FC
+16,2022-02-19,21:30,Super League,Matchweek 19,Sat,Home,W,3,2,Goa,39.0,,João Victor,4-2-3-1,Rowan Arumughan,Match Report,,12,4,,0,0,2021,Hyderabad FC
+17,2022-02-23,19:30,Super League,Matchweek 20,Wed,Home,W,2,1,Kerala Blasters,45.0,,João Victor,4-2-3-1,Harish Kundu,Match Report,,8,6,,0,0,2021,Hyderabad FC
+18,2022-03-01,19:30,Super League,Matchweek 13,Tue,Home,L,0,3,Jamshedpur,59.0,,Nikhil Poojari,4-2-3-1,R. Venkatesh,Match Report,,9,2,,0,0,2021,Hyderabad FC
+19,2022-03-05,21:30,Super League,Matchweek 21,Sat,Home,W,2,1,Mumbai City,39.0,,Juanan,4-2-3-1,Harish Kundu,Match Report,,13,7,,0,0,2021,Hyderabad FC
+20,2022-03-12,19:30,Super League,Semi-finals,Sat,Home,W,3,1,Mohun Bagan,44.0,,João Victor,4-2-3-1,Rahul Kumar Gupta,Match Report,Leg 1 of 2,11,3,,0,0,2021,Hyderabad FC
+21,2022-03-16,19:30,Super League,Semi-finals,Wed,Away,L,0,1,Mohun Bagan,37.0,,João Victor,4-2-3-1,R. Venkatesh,Match Report,Leg 2 of 2; Hyderabad FC won,10,2,,0,0,2021,Hyderabad FC
+22,2022-03-20,19:30,Super League,Final,Sun,Home,D,1 (3),1 (1),Kerala Blasters,44.0,11500.0,João Victor,4-4-2,Crystal John,Match Report,Hyderabad FC won on penalty kicks following extra time,13,6,,0,0,2021,Hyderabad FC
+0,2021-11-19,19:30,Super League,Matchweek 1,Fri,Home,W,4,2,Kerala Blasters,35.0,,Pritam Kotal,4-3-3,Harish Kundu,Match Report,,11,5,,1,1,2021,Mohun Bagan
+1,2021-11-27,19:30,Super League,Matchweek 2,Sat,Away,W,3,0,East Bengal,45.0,,Pritam Kotal,4-3-3,Rahul Kumar Gupta,Match Report,,12,5,,0,0,2021,Mohun Bagan
+2,2021-12-01,19:30,Super League,Matchweek 3,Wed,Home,L,1,5,Mumbai City,37.0,,Pritam Kotal,3-4-3,C. R. Srikrishna,Match Report,,9,1,,0,0,2021,Mohun Bagan
+3,2021-12-06,19:30,Super League,Matchweek 4,Mon,Away,L,1,2,Jamshedpur,63.0,,Roy Krishna,3-4-3,Rowan Arumughan,Match Report,,11,3,,0,0,2021,Mohun Bagan
+4,2021-12-11,19:30,Super League,Matchweek 5,Sat,Home,D,1,1,Chennaiyin,42.0,,Pritam Kotal,4-4-2,Rahul Kumar Gupta,Match Report,,8,2,,0,0,2021,Mohun Bagan
+5,2021-12-16,19:30,Super League,Matchweek 7,Thu,Away,D,3,3,Bengaluru,50.0,,Pritam Kotal,4-4-2,Crystal John,Match Report,,16,5,,1,1,2021,Mohun Bagan
+6,2021-12-21,19:30,Super League,Matchweek 8,Tue,Away,W,3,2,NorthEast Utd,59.0,,Pritam Kotal,4-2-3-1,Harish Kundu,Match Report,,26,8,,0,0,2021,Mohun Bagan
+7,2021-12-29,19:30,Super League,Matchweek 9,Wed,Home,W,2,1,Goa,46.0,,Pritam Kotal,4-2-3-1,Crystal John,Match Report,,7,2,,0,0,2021,Mohun Bagan
+8,2022-01-05,19:30,Super League,Matchweek 10,Wed,Home,D,2,2,Hyderabad FC,54.0,,Pritam Kotal,4-2-3-1,Rahul Kumar Gupta,Match Report,,12,1,,0,0,2021,Mohun Bagan
+9,2022-01-23,21:30,Super League,Matchweek 11,Sun,Home,D,0,0,Odisha,56.0,,Pritam Kotal,4-2-3-1,Harish Kundu,Match Report,,16,6,,0,0,2021,Mohun Bagan
+10,2022-01-29,19:30,Super League,Matchweek 15,Sat,Home,W,3,1,East Bengal,73.0,,Pritam Kotal,4-2-3-1,Crystal John,Match Report,,31,5,,0,1,2021,Mohun Bagan
+11,2022-02-03,19:30,Super League,Matchweek 16,Thu,Away,D,1,1,Mumbai City,53.0,,Pritam Kotal,4-2-3-1,Rahul Kumar Gupta,Match Report,,20,5,,0,0,2021,Mohun Bagan
+12,2022-02-08,19:30,Super League,Matchweek 17,Tue,Away,W,2,1,Hyderabad FC,54.0,,Pritam Kotal,4-2-3-1,Harish Kundu,Match Report,,16,6,,0,0,2021,Mohun Bagan
+13,2022-02-12,19:30,Super League,Matchweek 22,Sat,Home,W,3,1,NorthEast Utd,57.0,,Pritam Kotal,3-5-2,R. Venkatesh,Match Report,,16,8,,0,0,2021,Mohun Bagan
+14,2022-02-15,19:30,Super League,Matchweek 21,Tue,Away,W,2,0,Goa,29.0,,Pritam Kotal,4-2-3-1,Crystal John,Match Report,,15,6,,0,0,2021,Mohun Bagan
+15,2022-02-19,19:30,Super League,Matchweek 14,Sat,Away,D,2,2,Kerala Blasters,61.0,,Pritam Kotal,4-2-3-1,Rahul Kumar Gupta,Match Report,,14,6,,0,0,2021,Mohun Bagan
+16,2022-02-24,19:30,Super League,Matchweek 18,Thu,Away,D,1,1,Odisha,63.0,,Pritam Kotal,4-2-3-1,Aditya Purkayastha,Match Report,,17,4,,1,1,2021,Mohun Bagan
+17,2022-02-27,19:30,Super League,Matchweek 13,Sun,Home,W,2,0,Bengaluru,44.0,,Pritam Kotal,4-3-3,Harish Kundu,Match Report,,10,4,,0,0,2021,Mohun Bagan
+18,2022-03-03,19:30,Super League,Matchweek 20,Thu,Away,W,1,0,Chennaiyin,59.0,,Pritam Kotal,4-3-3,Crystal John,Match Report,,7,3,,0,0,2021,Mohun Bagan
+19,2022-03-07,19:30,Super League,Matchweek 19,Mon,Home,L,0,1,Jamshedpur,68.0,,Pritam Kotal,4-4-2,Crystal John,Match Report,,17,3,,0,0,2021,Mohun Bagan
+20,2022-03-12,19:30,Super League,Semi-finals,Sat,Away,L,1,3,Hyderabad FC,56.0,,Pritam Kotal,4-2-3-1,Rahul Kumar Gupta,Match Report,Leg 1 of 2,11,5,,0,0,2021,Mohun Bagan
+21,2022-03-16,19:30,Super League,Semi-finals,Wed,Home,W,1,0,Hyderabad FC,63.0,,Pritam Kotal,3-5-2,R. Venkatesh,Match Report,Leg 2 of 2; Hyderabad FC won,28,8,,0,0,2021,Mohun Bagan
+0,2021-11-19,19:30,Super League,Matchweek 1,Fri,Away,L,2,4,Mohun Bagan,65.0,,Jessel Carneiro,4-4-2,Harish Kundu,Match Report,,13,3,,0,0,2021,Kerala Blasters
+1,2021-11-25,19:30,Super League,Matchweek 2,Thu,Away,D,0,0,NorthEast Utd,54.0,,Jessel Carneiro,4-2-3-1,Aditya Purkayastha,Match Report,,12,4,,0,0,2021,Kerala Blasters
+2,2021-11-28,19:30,Super League,Matchweek 3,Sun,Away,D,1,1,Bengaluru,36.0,,Jessel Carneiro,4-4-2,Banerjee Pranjal,Match Report,,8,1,,0,0,2021,Kerala Blasters
+3,2021-12-05,19:30,Super League,Matchweek 4,Sun,Home,W,2,1,Odisha,56.0,,Jessel Carneiro,4-4-2,R. Venkatesh,Match Report,,8,5,,0,0,2021,Kerala Blasters
+4,2021-12-12,19:30,Super League,Matchweek 6,Sun,Away,D,1,1,East Bengal,69.0,,Jessel Carneiro,4-4-2,R. Venkatesh,Match Report,,10,2,,0,0,2021,Kerala Blasters
+5,2021-12-19,19:30,Super League,Matchweek 7,Sun,Away,W,3,0,Mumbai City,39.0,,Jessel Carneiro,4-4-2,Banerjee Pranjal,Match Report,,14,6,,1,1,2021,Kerala Blasters
+6,2021-12-22,19:30,Super League,Matchweek 8,Wed,Away,W,3,0,Chennaiyin,49.0,,Jessel Carneiro,4-4-2,Crystal John,Match Report,,14,7,,0,0,2021,Kerala Blasters
+7,2021-12-26,19:30,Super League,Matchweek 9,Sun,Home,D,1,1,Jamshedpur,52.0,,Jessel Carneiro,4-4-2,Pratik Mondal,Match Report,,6,2,,0,0,2021,Kerala Blasters
+8,2022-01-02,19:30,Super League,Matchweek 10,Sun,Home,D,2,2,Goa,35.0,,Jessel Carneiro,4-4-2,C. R. Srikrishna,Match Report,,9,2,,0,0,2021,Kerala Blasters
+9,2022-01-09,19:30,Super League,Matchweek 11,Sun,Home,W,1,0,Hyderabad FC,44.0,,Jessel Carneiro,4-4-2,Banerjee Pranjal,Match Report,,12,5,,0,0,2021,Kerala Blasters
+10,2022-01-12,19:30,Super League,Matchweek 12,Wed,Away,W,2,0,Odisha,53.0,,Adrián Luna,4-4-2,S. Senthil Nathan,Match Report,,17,6,,0,0,2021,Kerala Blasters
+11,2022-01-30,19:30,Super League,Matchweek 16,Sun,Home,L,0,1,Bengaluru,53.0,,Harmanjot Khabra,4-4-2,Harish Kundu,Match Report,,13,5,,0,0,2021,Kerala Blasters
+12,2022-02-04,19:30,Super League,Matchweek 17,Fri,Home,W,2,1,NorthEast Utd,54.0,,Adrián Luna,4-4-2,Pratik Mondal,Match Report,,15,4,,0,0,2021,Kerala Blasters
+13,2022-02-10,19:30,Super League,Matchweek 18,Thu,Away,L,0,3,Jamshedpur,50.0,,Adrián Luna,4-4-2,Ashwin Mohanlal,Match Report,,9,2,,0,0,2021,Kerala Blasters
+14,2022-02-14,19:30,Super League,Matchweek 21,Mon,Home,W,1,0,East Bengal,49.0,,Adrián Luna,4-4-2,Aditya Purkayastha,Match Report,,14,5,,0,0,2021,Kerala Blasters
+15,2022-02-19,19:30,Super League,Matchweek 14,Sat,Home,D,2,2,Mohun Bagan,39.0,,Adrián Luna,4-4-2,Rahul Kumar Gupta,Match Report,,17,6,,0,0,2021,Kerala Blasters
+16,2022-02-23,19:30,Super League,Matchweek 20,Wed,Away,L,1,2,Hyderabad FC,55.0,,Adrián Luna,4-4-2,Harish Kundu,Match Report,,19,7,,0,0,2021,Kerala Blasters
+17,2022-02-26,19:30,Super League,Matchweek 19,Sat,Home,W,3,0,Chennaiyin,57.0,,Adrián Luna,4-4-2,Pratik Mondal,Match Report,,16,4,,0,0,2021,Kerala Blasters
+18,2022-03-02,19:30,Super League,Matchweek 13,Wed,Home,W,3,1,Mumbai City,40.0,,Adrián Luna,4-4-2,Rahul Kumar Gupta,Match Report,,15,6,,1,1,2021,Kerala Blasters
+19,2022-03-06,19:30,Super League,Matchweek 22,Sun,Away,D,4,4,Goa,36.0,,Marko Lešković,4-4-2,Aditya Purkayastha,Match Report,,14,8,,1,1,2021,Kerala Blasters
+20,2022-03-11,19:30,Super League,Semi-finals,Fri,Away,W,1,0,Jamshedpur,48.0,,Adrián Luna,4-4-2,Tejas Nagvenkar,Match Report,Leg 1 of 2,5,4,,0,0,2021,Kerala Blasters
+21,2022-03-15,19:30,Super League,Semi-finals,Tue,Home,D,1,1,Jamshedpur,45.0,,Adrián Luna,4-4-2,Harish Kundu,Match Report,Leg 2 of 2; Kerala Blasters won,10,4,,0,0,2021,Kerala Blasters
+22,2022-03-20,19:30,Super League,Final,Sun,Away,D,1 (1),1 (3),Hyderabad FC,56.0,11500.0,Adrián Luna,4-4-2,Crystal John,Match Report,Hyderabad FC won on penalty kicks following extra time,15,4,,0,0,2021,Kerala Blasters
+0,2021-11-22,19:30,Super League,Matchweek 1,Mon,Home,W,3,0,Goa,43.0,,Mourtada Fall,4-2-3-1,Rowan Arumughan,Match Report,,11,6,,1,1,2021,Mumbai City
+1,2021-11-27,21:30,Super League,Matchweek 2,Sat,Home,L,1,3,Hyderabad FC,63.0,,Mourtada Fall,4-2-3-1,Pratik Mondal,Match Report,,12,3,,0,0,2021,Mumbai City
+2,2021-12-01,19:30,Super League,Matchweek 3,Wed,Away,W,5,1,Mohun Bagan,63.0,,Mourtada Fall,4-2-3-1,C. R. Srikrishna,Match Report,,19,10,,0,0,2021,Mumbai City
+3,2021-12-04,21:30,Super League,Matchweek 4,Sat,Away,W,3,1,Bengaluru,54.0,,Mourtada Fall,4-2-3-1,Pranjal Banerji,Match Report,,9,4,,1,1,2021,Mumbai City
+4,2021-12-09,19:30,Super League,Matchweek 5,Thu,Home,W,4,2,Jamshedpur,56.0,,Mourtada Fall,4-2-3-1,Aditya Purkayastha,Match Report,,12,8,,0,0,2021,Mumbai City
+5,2021-12-15,19:30,Super League,Matchweek 6,Wed,Home,W,1,0,Chennaiyin,70.0,,Mourtada Fall,4-2-3-1,Rowan Arumughan,Match Report,,15,5,,0,0,2021,Mumbai City
+6,2021-12-19,19:30,Super League,Matchweek 7,Sun,Home,L,0,3,Kerala Blasters,61.0,,Mourtada Fall,4-2-3-1,Banerjee Pranjal,Match Report,,14,3,,0,0,2021,Mumbai City
+7,2021-12-27,19:30,Super League,Matchweek 9,Mon,Away,D,3,3,NorthEast Utd,64.0,,Mandar Rao Dessai,4-2-3-1,Rowan Arumughan,Match Report,,20,7,,0,0,2021,Mumbai City
+8,2022-01-03,19:30,Super League,Matchweek 10,Mon,Away,L,2,4,Odisha,61.0,,Mourtada Fall,4-2-3-1,R. Venkatesh,Match Report,,16,8,,0,0,2021,Mumbai City
+9,2022-01-07,19:30,Super League,Matchweek 11,Fri,Away,D,0,0,East Bengal,71.0,,Mourtada Fall,4-2-3-1,S. Senthil Nathan,Match Report,,15,2,,0,0,2021,Mumbai City
+10,2022-01-10,19:30,Super League,Matchweek 12,Mon,Home,L,0,3,Bengaluru,55.0,,Mourtada Fall,4-2-3-1,C. R. Srikrishna,Match Report,,12,4,,0,0,2021,Mumbai City
+11,2022-01-25,19:30,Super League,Matchweek 15,Tue,Home,D,1,1,NorthEast Utd,48.0,,Mourtada Fall,4-4-2,Rowan Arumughan,Match Report,,18,6,,1,1,2021,Mumbai City
+12,2022-02-03,19:30,Super League,Matchweek 16,Thu,Home,D,1,1,Mohun Bagan,47.0,,Mourtada Fall,4-2-3-1,Rahul Kumar Gupta,Match Report,,18,2,,0,0,2021,Mumbai City
+13,2022-02-06,19:30,Super League,Matchweek 17,Sun,Away,W,1,0,Chennaiyin,57.0,,Mourtada Fall,4-2-3-1,Aditya Purkayastha,Match Report,,12,5,,0,0,2021,Mumbai City
+14,2022-02-13,19:30,Super League,Matchweek 22,Sun,Home,W,4,1,Odisha,58.0,,Mourtada Fall,4-2-3-1,S. Senthil Nathan,Match Report,,13,4,,0,0,2021,Mumbai City
+15,2022-02-17,19:30,Super League,Matchweek 14,Thu,Away,L,2,3,Jamshedpur,67.0,,Mourtada Fall,4-2-3-1,Harish Kundu,Match Report,,16,8,,1,2,2021,Mumbai City
+16,2022-02-22,19:30,Super League,Matchweek 18,Tue,Home,W,1,0,East Bengal,56.0,,Mourtada Fall,4-2-3-1,Ashwin Mohanlal,Match Report,,11,3,,0,0,2021,Mumbai City
+17,2022-02-26,21:30,Super League,Matchweek 20,Sat,Away,W,2,0,Goa,33.0,,Mourtada Fall,4-2-3-1,Rahul Kumar Gupta,Match Report,,14,7,,0,0,2021,Mumbai City
+18,2022-03-02,19:30,Super League,Matchweek 13,Wed,Away,L,1,3,Kerala Blasters,61.0,,Mourtada Fall,4-2-3-1,Rahul Kumar Gupta,Match Report,,12,1,,1,1,2021,Mumbai City
+19,2022-03-05,21:30,Super League,Matchweek 21,Sat,Away,L,1,2,Hyderabad FC,61.0,,Mourtada Fall,4-2-3-1,Harish Kundu,Match Report,,16,2,,0,0,2021,Mumbai City
+0,2021-11-20,19:30,Super League,Matchweek 1,Sat,Home,W,4,2,NorthEast Utd,69.0,,Sunil Chhetri,4-2-3-1,Rahul Kumar Gupta,Match Report,,9,4,,0,0,2021,Bengaluru
+1,2021-11-24,19:30,Super League,Matchweek 2,Wed,Away,L,1,3,Odisha,67.0,,Sunil Chhetri,4-3-3,R. Venkatesh,Match Report,,16,5,,0,0,2021,Bengaluru
+2,2021-11-28,19:30,Super League,Matchweek 3,Sun,Home,D,1,1,Kerala Blasters,64.0,,Sunil Chhetri,4-3-3,Banerjee Pranjal,Match Report,,9,3,,0,0,2021,Bengaluru
+3,2021-12-04,21:30,Super League,Matchweek 4,Sat,Home,L,1,3,Mumbai City,46.0,,Sunil Chhetri,4-3-3,Pranjal Banerji,Match Report,,8,3,,0,1,2021,Bengaluru
+4,2021-12-08,19:30,Super League,Matchweek 5,Wed,Away,L,0,1,Hyderabad FC,57.0,,Sunil Chhetri,4-3-3,Harish Kundu,Match Report,,10,3,,0,0,2021,Bengaluru
+5,2021-12-11,21:30,Super League,Matchweek 6,Sat,Away,L,1,2,Goa,49.0,,Sunil Chhetri,4-3-3,Banerjee Pranjal,Match Report,,12,3,,0,0,2021,Bengaluru
+6,2021-12-16,19:30,Super League,Matchweek 7,Thu,Home,D,3,3,Mohun Bagan,50.0,,Gurpreet Singh Sandhu,4-3-3,Crystal John,Match Report,,16,6,,1,1,2021,Bengaluru
+7,2021-12-20,19:30,Super League,Matchweek 8,Mon,Away,D,0,0,Jamshedpur,63.0,,Gurpreet Singh Sandhu,4-2-3-1,S. Senthil Nathan,Match Report,,9,2,,0,0,2021,Bengaluru
+8,2021-12-30,19:30,Super League,Matchweek 9,Thu,Away,W,4,2,Chennaiyin,53.0,,Gurpreet Singh Sandhu,4-3-3,Rahul Kumar Gupta,Match Report,,14,6,,1,1,2021,Bengaluru
+9,2022-01-04,19:30,Super League,Matchweek 10,Tue,Home,D,1,1,East Bengal,74.0,,Gurpreet Singh Sandhu,3-4-3,Harish Kundu,Match Report,,11,2,,0,0,2021,Bengaluru
+10,2022-01-10,19:30,Super League,Matchweek 12,Mon,Away,W,3,0,Mumbai City,45.0,,Gurpreet Singh Sandhu,4-3-3,C. R. Srikrishna,Match Report,,19,7,,0,0,2021,Bengaluru
+11,2022-01-23,19:30,Super League,Matchweek 14,Sun,Home,D,1,1,Goa,43.0,,Sunil Chhetri,4-3-3,Banerjee Pranjal,Match Report,,12,3,,0,0,2021,Bengaluru
+12,2022-01-26,19:30,Super League,Matchweek 15,Wed,Home,W,3,0,Chennaiyin,46.0,,Sunil Chhetri,4-3-3,Pratik Mondal,Match Report,,14,5,,1,1,2021,Bengaluru
+13,2022-01-30,19:30,Super League,Matchweek 16,Sun,Away,W,1,0,Kerala Blasters,47.0,,Sunil Chhetri,4-3-3,Harish Kundu,Match Report,,18,4,,0,0,2021,Bengaluru
+14,2022-02-05,19:30,Super League,Matchweek 17,Sat,Home,W,3,1,Jamshedpur,59.0,,Sunil Chhetri,4-3-3,C. R. Srikrishna,Match Report,,11,4,,0,0,2021,Bengaluru
+15,2022-02-11,19:30,Super League,Matchweek 22,Fri,Home,L,1,2,Hyderabad FC,58.0,,Sunil Chhetri,4-3-3,Tejas Nagvenkar,Match Report,,8,1,,0,0,2021,Bengaluru
+16,2022-02-18,19:30,Super League,Matchweek 18,Fri,Away,L,1,2,NorthEast Utd,65.0,,Sunil Chhetri,4-2-3-1,R. Venkatesh,Match Report,,13,5,,0,0,2021,Bengaluru
+17,2022-02-21,19:30,Super League,Matchweek 19,Mon,Home,W,2,1,Odisha,50.0,,Cleiton Silva,4-3-3,S. Senthil Nathan,Match Report,,11,5,,1,1,2021,Bengaluru
+18,2022-02-27,19:30,Super League,Matchweek 13,Sun,Away,L,0,2,Mohun Bagan,56.0,,Sunil Chhetri,4-3-3,Harish Kundu,Match Report,,15,1,,0,0,2021,Bengaluru
+19,2022-03-05,19:30,Super League,Matchweek 20,Sat,Away,W,1,0,East Bengal,62.0,,Sunil Chhetri,4-3-3,S. Senthil Nathan,Match Report,,8,3,,0,0,2021,Bengaluru
+0,2021-11-24,19:30,Super League,Matchweek 2,Wed,Home,W,3,1,Bengaluru,33.0,,Vinit Rai,4-3-3,R. Venkatesh,Match Report,,7,5,,0,0,2021,Odisha
+1,2021-11-30,19:30,Super League,Matchweek 3,Tue,Home,W,6,4,East Bengal,54.0,,Vinit Rai,4-2-3-1,Harish Kundu,Match Report,,13,7,,0,0,2021,Odisha
+2,2021-12-05,19:30,Super League,Matchweek 4,Sun,Away,L,1,2,Kerala Blasters,44.0,,Vinit Rai,4-2-3-1,R. Venkatesh,Match Report,,18,6,,0,0,2021,Odisha
+3,2021-12-10,19:30,Super League,Matchweek 5,Fri,Home,W,1,0,NorthEast Utd,62.0,,Vinit Rai,4-2-3-1,S. Senthil Nathan,Match Report,,9,4,,0,0,2021,Odisha
+4,2021-12-14,19:30,Super League,Matchweek 6,Tue,Home,L,0,4,Jamshedpur,62.0,,Vinit Rai,4-2-3-1,C. R. Srikrishna,Match Report,,10,2,,0,0,2021,Odisha
+5,2021-12-18,19:30,Super League,Matchweek 7,Sat,Away,L,1,2,Chennaiyin,40.0,,Víctor Mongil,4-2-3-1,Pratik Mondal,Match Report,,10,4,,0,0,2021,Odisha
+6,2021-12-24,19:30,Super League,Matchweek 8,Fri,Home,D,1,1,Goa,41.0,,Vinit Rai,4-1-4-1,C. R. Srikrishna,Match Report,,12,5,,0,0,2021,Odisha
+7,2021-12-28,19:30,Super League,Matchweek 9,Tue,Away,L,1,6,Hyderabad FC,45.0,,Héctor Rodas,4-1-4-1,Ashwin Mohanlal,Match Report,,10,5,,0,0,2021,Odisha
+8,2022-01-03,19:30,Super League,Matchweek 10,Mon,Home,W,4,2,Mumbai City,39.0,,Víctor Mongil,4-4-2,R. Venkatesh,Match Report,,9,4,,0,0,2021,Odisha
+9,2022-01-12,19:30,Super League,Matchweek 12,Wed,Home,L,0,2,Kerala Blasters,47.0,,Víctor Mongil,4-3-3,S. Senthil Nathan,Match Report,,11,4,,0,0,2021,Odisha
+10,2022-01-18,19:30,Super League,Matchweek 13,Tue,Away,W,2,0,NorthEast Utd,46.0,,Víctor Mongil,4-2-3-1,Ashwin Mohanlal,Match Report,,16,7,,0,0,2021,Odisha
+11,2022-01-23,21:30,Super League,Matchweek 11,Sun,Away,D,0,0,Mohun Bagan,44.0,,Víctor Mongil,4-2-3-1,Harish Kundu,Match Report,,13,3,,0,0,2021,Odisha
+12,2022-01-27,19:30,Super League,Matchweek 15,Thu,Home,L,2,3,Hyderabad FC,50.0,,Víctor Mongil,4-2-3-1,C. R. Srikrishna,Match Report,,7,2,,0,0,2021,Odisha
+13,2022-02-01,19:30,Super League,Matchweek 16,Tue,Away,D,1,1,Goa,36.0,,Víctor Mongil,4-2-3-1,S. Senthil Nathan,Match Report,,11,6,,1,1,2021,Odisha
+14,2022-02-07,19:30,Super League,Matchweek 17,Mon,Away,W,2,1,East Bengal,54.0,,Víctor Mongil,4-2-3-1,Rowan Arumughan,Match Report,,8,4,,0,0,2021,Odisha
+15,2022-02-13,19:30,Super League,Matchweek 22,Sun,Away,L,1,4,Mumbai City,42.0,,Víctor Mongil,4-2-3-1,S. Senthil Nathan,Match Report,,14,3,,0,0,2021,Odisha
+16,2022-02-16,19:30,Super League,Matchweek 21,Wed,Home,D,2,2,Chennaiyin,42.0,,Héctor Rodas,4-3-3,Pratik Mondal,Match Report,,20,7,,0,0,2021,Odisha
+17,2022-02-21,19:30,Super League,Matchweek 19,Mon,Away,L,1,2,Bengaluru,50.0,,Víctor Mongil,4-2-3-1,S. Senthil Nathan,Match Report,,14,6,,0,0,2021,Odisha
+18,2022-02-24,19:30,Super League,Matchweek 18,Thu,Home,D,1,1,Mohun Bagan,37.0,,Víctor Mongil,4-2-3-1,Aditya Purkayastha,Match Report,,13,2,,0,1,2021,Odisha
+19,2022-03-04,19:30,Super League,Matchweek 20,Fri,Away,L,1,5,Jamshedpur,40.0,,Jerry Mawihmingthanga,4-2-3-1,Pratik Mondal,Match Report,,4,1,,0,0,2021,Odisha
+0,2021-11-23,19:30,Super League,Matchweek 1,Tue,Away,W,1,0,Hyderabad FC,37.0,,Anirudh Thapa,4-1-4-1,Banerjee Pranjal,Match Report,,7,2,,1,1,2021,Chennaiyin
+1,2021-11-29,19:30,Super League,Matchweek 3,Mon,Away,W,2,1,NorthEast Utd,50.0,,Anirudh Thapa,4-2-3-1,Ashwin Mohanlal,Match Report,,11,4,,0,0,2021,Chennaiyin
+2,2021-12-03,19:30,Super League,Matchweek 4,Fri,Home,D,0,0,East Bengal,58.0,,Anirudh Thapa,4-1-4-1,Crystal John,Match Report,,24,4,,0,0,2021,Chennaiyin
+3,2021-12-11,19:30,Super League,Matchweek 5,Sat,Away,D,1,1,Mohun Bagan,58.0,,Anirudh Thapa,3-5-2,Rahul Kumar Gupta,Match Report,,13,2,,0,0,2021,Chennaiyin
+4,2021-12-15,19:30,Super League,Matchweek 6,Wed,Away,L,0,1,Mumbai City,31.0,,Anirudh Thapa,5-3-2,Rowan Arumughan,Match Report,,7,2,,0,0,2021,Chennaiyin
+5,2021-12-18,19:30,Super League,Matchweek 7,Sat,Home,W,2,1,Odisha,60.0,,Anirudh Thapa,3-1-4-2,Pratik Mondal,Match Report,,21,7,,0,1,2021,Chennaiyin
+6,2021-12-22,19:30,Super League,Matchweek 8,Wed,Home,L,0,3,Kerala Blasters,51.0,,Anirudh Thapa,5-3-2,Crystal John,Match Report,,8,0,,0,0,2021,Chennaiyin
+7,2021-12-30,19:30,Super League,Matchweek 9,Thu,Home,L,2,4,Bengaluru,47.0,,Anirudh Thapa,3-1-4-2,Rahul Kumar Gupta,Match Report,,9,4,,0,0,2021,Chennaiyin
+8,2022-01-02,21:30,Super League,Matchweek 10,Sun,Away,W,1,0,Jamshedpur,40.0,,Anirudh Thapa,3-5-2,Banerjee Pranjal,Match Report,,5,2,,0,0,2021,Chennaiyin
+9,2022-01-08,21:30,Super League,Matchweek 11,Sat,Away,L,0,1,Goa,32.0,,Anirudh Thapa,5-3-2,Pratik Mondal,Match Report,,3,1,,0,0,2021,Chennaiyin
+10,2022-01-13,19:30,Super League,Matchweek 12,Thu,Home,D,1,1,Hyderabad FC,43.0,,Anirudh Thapa,3-5-2,Rahul Kumar Gupta,Match Report,,10,4,,0,0,2021,Chennaiyin
+11,2022-01-22,19:30,Super League,Matchweek 14,Sat,Home,W,2,1,NorthEast Utd,53.0,,Anirudh Thapa,3-5-2,Crystal John,Match Report,,11,4,,0,0,2021,Chennaiyin
+12,2022-01-26,19:30,Super League,Matchweek 15,Wed,Away,L,0,3,Bengaluru,54.0,,Vladimir Koman,3-5-2,Pratik Mondal,Match Report,,16,5,,0,0,2021,Chennaiyin
+13,2022-02-02,19:30,Super League,Matchweek 16,Wed,Away,D,2,2,East Bengal,52.0,,Anirudh Thapa,3-5-2,Ashwin Mohanlal,Match Report,,8,1,,0,0,2021,Chennaiyin
+14,2022-02-06,19:30,Super League,Matchweek 17,Sun,Home,L,0,1,Mumbai City,43.0,,Anirudh Thapa,3-5-2,Aditya Purkayastha,Match Report,,8,0,,0,0,2021,Chennaiyin
+15,2022-02-09,19:30,Super League,Matchweek 18,Wed,Home,L,0,5,Goa,37.0,,Anirudh Thapa,3-5-2,Crystal John,Match Report,,7,0,,0,0,2021,Chennaiyin
+16,2022-02-16,19:30,Super League,Matchweek 21,Wed,Away,D,2,2,Odisha,58.0,,Anirudh Thapa,4-3-3,Pratik Mondal,Match Report,,14,3,,0,0,2021,Chennaiyin
+17,2022-02-20,19:30,Super League,Matchweek 22,Sun,Home,L,1,4,Jamshedpur,53.0,,Anirudh Thapa,4-3-2-1,Tejas Nagvenkar,Match Report,,15,4,,0,0,2021,Chennaiyin
+18,2022-02-26,19:30,Super League,Matchweek 19,Sat,Away,L,0,3,Kerala Blasters,43.0,,Anirudh Thapa,4-1-4-1,Pratik Mondal,Match Report,,7,0,,0,0,2021,Chennaiyin
+19,2022-03-03,19:30,Super League,Matchweek 20,Thu,Home,L,0,1,Mohun Bagan,41.0,,Vladimir Koman,4-1-4-1,Crystal John,Match Report,,16,5,,0,0,2021,Chennaiyin
+0,2021-11-22,19:30,Super League,Matchweek 1,Mon,Away,L,0,3,Mumbai City,57.0,,Edu Bedia,4-2-3-1,Rowan Arumughan,Match Report,,8,1,,0,0,2021,Goa
+1,2021-11-26,19:30,Super League,Matchweek 2,Fri,Home,L,1,3,Jamshedpur,75.0,,Edu Bedia,4-2-3-1,S. Senthil Nathan,Match Report,,13,3,,0,0,2021,Goa
+2,2021-12-04,19:30,Super League,Matchweek 4,Sat,Away,L,1,2,NorthEast Utd,68.0,,Iván Garrido González,4-2-3-1,Rahul Kumar Gupta,Match Report,,22,9,,0,0,2021,Goa
+3,2021-12-07,19:30,Super League,Matchweek 5,Tue,Away,W,4,3,East Bengal,72.0,,Edu Bedia,4-2-3-1,C. R. Srikrishna,Match Report,,18,6,,1,1,2021,Goa
+4,2021-12-11,21:30,Super League,Matchweek 6,Sat,Home,W,2,1,Bengaluru,52.0,,Edu Bedia,3-4-1-2,Banerjee Pranjal,Match Report,,7,4,,0,0,2021,Goa
+5,2021-12-18,21:30,Super League,Matchweek 7,Sat,Home,D,1,1,Hyderabad FC,61.0,,Edu Bedia,3-4-1-2,R. Venkatesh,Match Report,,11,4,,0,0,2021,Goa
+6,2021-12-24,19:30,Super League,Matchweek 8,Fri,Away,D,1,1,Odisha,59.0,,Edu Bedia,3-4-1-2,C. R. Srikrishna,Match Report,,11,4,,0,0,2021,Goa
+7,2021-12-29,19:30,Super League,Matchweek 9,Wed,Away,L,1,2,Mohun Bagan,54.0,,Iván Garrido González,3-4-1-2,Crystal John,Match Report,,14,4,,0,0,2021,Goa
+8,2022-01-02,19:30,Super League,Matchweek 10,Sun,Away,D,2,2,Kerala Blasters,65.0,,Edu Bedia,3-4-1-2,C. R. Srikrishna,Match Report,,21,7,,0,0,2021,Goa
+9,2022-01-08,21:30,Super League,Matchweek 11,Sat,Home,W,1,0,Chennaiyin,68.0,,Edu Bedia,3-4-3,Pratik Mondal,Match Report,,16,5,,0,0,2021,Goa
+10,2022-01-14,19:30,Super League,Matchweek 12,Fri,Home,D,1,1,NorthEast Utd,67.0,,Glan Martins,3-4-1-2,R. Venkatesh,Match Report,,25,8,,0,0,2021,Goa
+11,2022-01-19,19:30,Super League,Matchweek 13,Wed,Home,L,1,2,East Bengal,71.0,,Edu Bedia,3-4-1-2,Aditya Purkayastha,Match Report,,18,4,,0,0,2021,Goa
+12,2022-01-23,19:30,Super League,Matchweek 14,Sun,Away,D,1,1,Bengaluru,57.0,,Seriton Fernandes,3-4-1-2,Banerjee Pranjal,Match Report,,10,2,,0,0,2021,Goa
+13,2022-01-28,19:30,Super League,Matchweek 15,Fri,Away,L,0,1,Jamshedpur,70.0,,Iván Garrido González,4-2-3-1,Aditya Purkayastha,Match Report,,12,2,,0,0,2021,Goa
+14,2022-02-01,19:30,Super League,Matchweek 16,Tue,Home,D,1,1,Odisha,65.0,,Brandon Fernandes,4-2-3-1,S. Senthil Nathan,Match Report,,24,7,,0,0,2021,Goa
+15,2022-02-09,19:30,Super League,Matchweek 18,Wed,Away,W,5,0,Chennaiyin,63.0,,Iván Garrido González,4-2-3-1,Crystal John,Match Report,,18,7,,0,0,2021,Goa
+16,2022-02-15,19:30,Super League,Matchweek 21,Tue,Home,L,0,2,Mohun Bagan,71.0,,Brandon Fernandes,4-2-3-1,Crystal John,Match Report,,16,4,,0,0,2021,Goa
+17,2022-02-19,21:30,Super League,Matchweek 19,Sat,Away,L,2,3,Hyderabad FC,61.0,,Iván Garrido González,4-2-3-1,Rowan Arumughan,Match Report,,14,7,,0,0,2021,Goa
+18,2022-02-26,21:30,Super League,Matchweek 20,Sat,Home,L,0,2,Mumbai City,67.0,,Iván Garrido González,4-2-3-1,Rahul Kumar Gupta,Match Report,,15,3,,0,1,2021,Goa
+19,2022-03-06,19:30,Super League,Matchweek 22,Sun,Home,D,4,4,Kerala Blasters,64.0,,Iván Garrido González,3-5-2,Aditya Purkayastha,Match Report,,15,7,,1,1,2021,Goa
+0,2021-11-20,19:30,Super League,Matchweek 1,Sat,Away,L,2,4,Bengaluru,31.0,,Subhasish Roy Chowdhury,4-3-3,Rahul Kumar Gupta,Match Report,,12,4,,0,0,2021,NorthEast United
+1,2021-11-25,19:30,Super League,Matchweek 2,Thu,Home,D,0,0,Kerala Blasters,47.0,,Hernán,4-4-2,Aditya Purkayastha,Match Report,,7,0,,0,0,2021,NorthEast United
+2,2021-11-29,19:30,Super League,Matchweek 3,Mon,Home,L,1,2,Chennaiyin,50.0,,Khassa Camara,4-3-3,Ashwin Mohanlal,Match Report,,11,3,,0,0,2021,NorthEast United
+3,2021-12-04,19:30,Super League,Matchweek 4,Sat,Home,W,2,1,Goa,33.0,,Subhasish Roy Chowdhury,4-3-3,Rahul Kumar Gupta,Match Report,,10,4,,0,0,2021,NorthEast United
+4,2021-12-10,19:30,Super League,Matchweek 5,Fri,Away,L,0,1,Odisha,38.0,,Hernán,4-3-3,S. Senthil Nathan,Match Report,,19,2,,0,0,2021,NorthEast United
+5,2021-12-13,19:30,Super League,Matchweek 6,Mon,Away,L,1,5,Hyderabad FC,48.0,,Subhasish Roy Chowdhury,4-2-3-1,Ashwin Mohanlal,Match Report,,11,5,,0,0,2021,NorthEast United
+6,2021-12-17,19:30,Super League,Matchweek 7,Fri,Home,W,2,0,East Bengal,54.0,,Khassa Camara,4-4-2,Rahul Kumar Gupta,Match Report,,20,7,,0,0,2021,NorthEast United
+7,2021-12-21,19:30,Super League,Matchweek 8,Tue,Home,L,2,3,Mohun Bagan,41.0,,Khassa Camara,4-4-2,Harish Kundu,Match Report,,17,5,,0,0,2021,NorthEast United
+8,2021-12-27,19:30,Super League,Matchweek 9,Mon,Home,D,3,3,Mumbai City,36.0,,Hernán,4-3-3,Rowan Arumughan,Match Report,,16,9,,0,0,2021,NorthEast United
+9,2022-01-06,19:30,Super League,Matchweek 11,Thu,Away,L,2,3,Jamshedpur,54.0,,Hernán,4-2-3-1,Rowan Arumughan,Match Report,,8,3,,0,0,2021,NorthEast United
+10,2022-01-14,19:30,Super League,Matchweek 12,Fri,Away,D,1,1,Goa,33.0,,Hernán,4-2-3-1,R. Venkatesh,Match Report,,11,3,,0,0,2021,NorthEast United
+11,2022-01-18,19:30,Super League,Matchweek 13,Tue,Home,L,0,2,Odisha,54.0,,Hernán,4-3-3,Ashwin Mohanlal,Match Report,,13,2,,0,0,2021,NorthEast United
+12,2022-01-22,19:30,Super League,Matchweek 14,Sat,Away,L,1,2,Chennaiyin,47.0,,Hernán,4-3-3,Crystal John,Match Report,,28,6,,0,0,2021,NorthEast United
+13,2022-01-25,19:30,Super League,Matchweek 15,Tue,Away,D,1,1,Mumbai City,52.0,,Subhasish Roy Chowdhury,4-4-2,Rowan Arumughan,Match Report,,11,3,,0,0,2021,NorthEast United
+14,2022-01-31,19:30,Super League,Matchweek 16,Mon,Home,L,0,5,Hyderabad FC,50.0,,Subhasish Roy Chowdhury,4-2-3-1,R. Venkatesh,Match Report,,8,3,,0,0,2021,NorthEast United
+15,2022-02-04,19:30,Super League,Matchweek 17,Fri,Away,L,1,2,Kerala Blasters,46.0,,Subhasish Roy Chowdhury,4-3-3,Pratik Mondal,Match Report,,10,1,,0,0,2021,NorthEast United
+16,2022-02-12,19:30,Super League,Matchweek 22,Sat,Away,L,1,3,Mohun Bagan,43.0,,Subhasish Roy Chowdhury,4-2-3-1,R. Venkatesh,Match Report,,24,5,,0,0,2021,NorthEast United
+17,2022-02-18,19:30,Super League,Matchweek 18,Fri,Home,W,2,1,Bengaluru,35.0,,Hernán,4-3-3,R. Venkatesh,Match Report,,14,5,,0,0,2021,NorthEast United
+18,2022-02-25,19:30,Super League,Matchweek 21,Fri,Home,L,2,3,Jamshedpur,58.0,,Hernán,4-3-2-1,Rowan Arumughan,Match Report,,11,4,,0,0,2021,NorthEast United
+19,2022-02-28,19:30,Super League,Matchweek 19,Mon,Away,D,1,1,East Bengal,48.0,,Deshorn Brown,4-2-3-1,Tejas Nagvenkar,Match Report,,9,3,,0,0,2021,NorthEast United
+0,2021-11-21,19:30,Super League,Matchweek 1,Sun,Home,D,1,1,Jamshedpur,37.0,,Arindam Bhattacharya,4-4-2,Crystal John,Match Report,,11,2,,0,0,2021,East Bengal
+1,2021-11-27,19:30,Super League,Matchweek 2,Sat,Home,L,0,3,Mohun Bagan,55.0,,Arindam Bhattacharya,3-4-3,Rahul Kumar Gupta,Match Report,,7,0,,0,0,2021,East Bengal
+2,2021-11-30,19:30,Super League,Matchweek 3,Tue,Away,L,4,6,Odisha,46.0,,Franjo Prce,4-4-2,Harish Kundu,Match Report,,15,4,,1,1,2021,East Bengal
+3,2021-12-03,19:30,Super League,Matchweek 4,Fri,Away,D,0,0,Chennaiyin,42.0,,Tomislav Mrčela,4-4-1-1,Crystal John,Match Report,,11,1,,0,0,2021,East Bengal
+4,2021-12-07,19:30,Super League,Matchweek 5,Tue,Home,L,3,4,Goa,28.0,,Tomislav Mrčela,4-4-2,C. R. Srikrishna,Match Report,,9,4,,0,0,2021,East Bengal
+5,2021-12-12,19:30,Super League,Matchweek 6,Sun,Home,D,1,1,Kerala Blasters,31.0,,Tomislav Mrčela,4-3-3,R. Venkatesh,Match Report,,12,4,,0,0,2021,East Bengal
+6,2021-12-17,19:30,Super League,Matchweek 7,Fri,Away,L,0,2,NorthEast Utd,46.0,,Arindam Bhattacharya,4-1-4-1,Rahul Kumar Gupta,Match Report,,8,3,,0,0,2021,East Bengal
+7,2021-12-23,19:30,Super League,Matchweek 8,Thu,Away,D,1,1,Hyderabad FC,33.0,,Arindam Bhattacharya,4-1-4-1,Aditya Purkayastha,Match Report,,7,1,,0,0,2021,East Bengal
+8,2022-01-04,19:30,Super League,Matchweek 10,Tue,Away,D,1,1,Bengaluru,26.0,,Arindam Bhattacharya,4-1-4-1,Harish Kundu,Match Report,,5,1,,0,0,2021,East Bengal
+9,2022-01-07,19:30,Super League,Matchweek 11,Fri,Home,D,0,0,Mumbai City,29.0,,Arindam Bhattacharya,4-1-4-1,S. Senthil Nathan,Match Report,,8,1,,0,0,2021,East Bengal
+10,2022-01-11,19:30,Super League,Matchweek 12,Tue,Away,L,0,1,Jamshedpur,37.0,,Arindam Bhattacharya,4-1-4-1,Crystal John,Match Report,,7,1,,0,0,2021,East Bengal
+11,2022-01-19,19:30,Super League,Matchweek 13,Wed,Away,W,2,1,Goa,29.0,,Mohammed Rafique,4-3-3,Aditya Purkayastha,Match Report,,4,2,,0,0,2021,East Bengal
+12,2022-01-24,19:30,Super League,Matchweek 14,Mon,Home,L,0,4,Hyderabad FC,51.0,,Mohammed Rafique,4-4-2,Rahul Kumar Gupta,Match Report,,12,5,,0,1,2021,East Bengal
+13,2022-01-29,19:30,Super League,Matchweek 15,Sat,Away,L,1,3,Mohun Bagan,27.0,,Adil Khan,4-4-2,Crystal John,Match Report,,13,4,,0,0,2021,East Bengal
+14,2022-02-02,19:30,Super League,Matchweek 16,Wed,Home,D,2,2,Chennaiyin,48.0,,Adil Khan,4-3-3,Ashwin Mohanlal,Match Report,,26,4,,0,0,2021,East Bengal
+15,2022-02-07,19:30,Super League,Matchweek 17,Mon,Home,L,1,2,Odisha,46.0,,Adil Khan,5-4-1,Rowan Arumughan,Match Report,,15,2,,0,0,2021,East Bengal
+16,2022-02-14,19:30,Super League,Matchweek 21,Mon,Away,L,0,1,Kerala Blasters,51.0,,Mohammed Rafique,4-2-3-1,Aditya Purkayastha,Match Report,,9,1,,0,0,2021,East Bengal
+17,2022-02-22,19:30,Super League,Matchweek 18,Tue,Away,L,0,1,Mumbai City,44.0,,Mohammed Rafique,4-4-2,Ashwin Mohanlal,Match Report,,13,5,,0,0,2021,East Bengal
+18,2022-02-28,19:30,Super League,Matchweek 19,Mon,Home,D,1,1,NorthEast Utd,52.0,,Mohammed Rafique,4-4-2,Tejas Nagvenkar,Match Report,,18,6,,1,1,2021,East Bengal
+19,2022-03-05,19:30,Super League,Matchweek 20,Sat,Home,L,0,1,Bengaluru,38.0,,Raju Gaikwad,4-4-2,S. Senthil Nathan,Match Report,,17,5,,0,0,2021,East Bengal
